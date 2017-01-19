@@ -1,0 +1,347 @@
+
+@font-face{
+    font-family: 'robotomedium';
+    font-family: 'robotolight';
+    font-family: 'robotoregular';
+    src: url('/public/fonts/Roboto-Medium.ttf');
+    src: url('/public/fonts/Roboto-Light.ttf');
+    src: url('/public/fonts/Roboto-Regular.ttf');
+}
+/*top bar menu*/
+.topbar li{
+  font-family: 'robotomedium';
+  font-weight: bold;
+  font-size: medium;
+  margin-left: -1%
+}
+
+.topbar span{
+  color: #0091ea;
+}
+
+/**********************/
+
+.homestudent{
+  background-image:url('/img/home1.png');
+  background-size: 100%;
+  height: auto;
+  margin-top: -7%;
+  padding: 50px;
+}
+
+
+.progressbar img{
+  /*margin-left: -271px;
+  margin-top: 250px;*/
+  position: absolute;
+  /*margin-top: 180%;*/
+  margin-left: 20%;
+  padding-top: 174px;
+}
+
+.nav ul{
+  /*margin-top: 23%;*/
+  position: absolute;
+  width: 118px;
+  padding-top: 195px;
+  margin-left: 67%;
+}
+.progressbar li, a{
+  list-style: none;
+  height: 30px;
+  color: black;
+}
+
+
+li.active a{
+  color: red !important;
+}
+
+
+#mainSidebar{
+  position: fixed;
+}
+
+.livecounter h2{
+  font-family: 'robotoregular';
+  margin-top: 20%;
+  /*margin-left: 38%;*/
+  color: #0091ea;
+  text-align: center;
+
+}
+
+.loginbtn img{
+
+  margin-top: 18%;
+
+}
+
+.arrowbtn{
+  margin-top: 75px;
+
+
+}
+
+/********************how to print***********************/
+
+
+.homeprint{
+  background-image: url('/img/02_how to print_blue gradient background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.printtitle h1{
+  font-family: 'robotolight';
+  font-size: -webkit-xxx-large;
+  color: white;
+  text-align: center;
+}
+
+.howtologo{
+  margin-top: 55px;
+}
+
+.regbtn{
+  text-align: center;
+  margin-top: 7%;
+}
+
+/******************ads for you*******************/
+
+.ads_student{
+  background-image: url('/img/03_ads for you_hero image background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.adslogo h1{
+  color: #0091ea;
+  margin-top: 8%;
+  font-size: 55px;
+}
+
+.sentence1 h3{
+  margin-top: 7%;
+  color: white;
+}
+
+.sentence2 h3{
+  color: white;
+}
+
+/********************fruni spot************************/
+
+.campus_student{
+  background-image: url('/img/04_campuses_light grey background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.campus_title h1{
+  color: #0091ea;
+  margin-top: 6%;
+  font-size: 52px;
+}
+
+.camp_logo{
+  padding-left: 20%;
+  margin-top: 6%;
+}
+
+.vline{
+  border-right: thin solid #d4cdcd;;
+  height: 210px;
+  width: 19%;
+}
+
+.vline1 hr{
+  border-color: black;
+  width: 80%;
+}
+
+.vline2 hr{
+  border-color: black;
+  margin-top: 19%;
+  width: 80%;
+}
+
+.vline3 hr{
+  border-color: black;
+  margin-top: 15%;
+  width: 80%;
+
+}
+
+.hr1 hr{
+  border-color: black;
+  margin-top: 20%;
+  width: 80%;
+  margin-left: 44%;
+
+}
+.invite_sentence{
+  color: #0091ea;
+  margin-top: 10%;
+}
+.invitebtn{
+  margin-top: 3%;
+}
+
+/*******************get involve********************/
+
+.get_involve{
+  background-image: url('/img/05_get involved_blue background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+
+}
+
+.involve_title h1{
+  color: white;
+  margin-top: 8%;
+  font-size: -webkit-xxx-large;
+}
+
+.involve_sentence{
+  margin-top: 6%;
+  color: white;
+}
+
+.joinbtn{
+  margin-top: 6%;
+}
+
+.stay_connected{
+  background-image: url('/img/05_get involved_light grey background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.connected_title h1{
+  margin-top: 5%;
+  color: #0091ea;
+}
+
+.involve_logo{
+  /*padding-left: 32%;
+  margin-top: 5%;
+  width: 80%;*/
+  text-align: center;
+}
+
+/********************footer***********************/
+
+.student_footer{
+  background-image: url('/img/05_get involved_dark grey background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.email_icon p{
+  color: #cccbcb;
+}
+
+.ftp_involve a{
+  color: #cccbcb;
+}
+
+.abf_involve a{
+  color: #cccbcb;
+}
+
+.copyright_involve{
+  margin-top: 38px;
+  color: #cccbcb;
+}
+
+
+
+/****************student home content end***********************/
+
+.faq_background{
+  background-image: url('/img/students_terms of use_light grey background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  margin-top: -2%;
+}
+
+.faq_title h1{
+  text-align: center;
+  margin-top: 4%;
+  color: #0091ea;
+}
+
+.faq .panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border: none;
+    background: #f0f0f0;
+  }
+
+.faq .panel-default>.panel-heading {
+      color: #333;
+      background-color: #f0f0f0;
+      border-style: none;
+    }
+.faq .panel-group .panel {
+    margin-bottom: 0;
+    /* border-radius: 4px; */
+    border: none;
+}
+
+/******************end faq content*********************/
+
+.policy_background{
+  background-image: url('/img/students_terms of use_light grey background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  margin-top: -2%;
+}
+
+.policy_title h1{
+  color: #0091ea;
+  margin-top: 6%;
+  font-size: -webkit-xxx-large;
+}
+
+.policy_content{
+  margin-top: 6%;
+}
+
+/*******************end policy content*******************/
+
+.term_background{
+  background-image: url('/img/students_terms of use_light grey background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  margin-top: -2%;
+}
+
+.term_title h1{
+  color: #0091ea;
+  margin-top: 6%;
+  font-size: -webkit-xxx-large;
+}
+
+/*******************end terms of use*********************/
+
+/*******************media query for home student********************/
+
+@media screen and (max-width: 768px){
+  .howtologo{
+    text-align: center;
+  }
+
+  .stud_foot{
+    text-align: center;
+  }
+
+
+
+}
