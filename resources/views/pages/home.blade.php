@@ -55,34 +55,54 @@
 
   <div class="row howtologo">
     <div class="col-sm-10 col-sm-offset-2 col-md-10 col-md-offset-2">
-      <div class="col-sm-2 col-md-2">
-        <img src="img/02_how to print_register icon.png" alt=""><br>
-        <h3>Register</h3>
-        <p>for one whole <br> year of sponsored <br> printing</p>
+      <div class="col-sm-12 col-md-2">
+        <div class="col-md-12 col-sm-6 col-sm-push-2 img_register">
+          <img src="img/02_how to print_register icon.png" alt=""><br>
+        </div>
+        <div class="col-md-12 col-sm-6 col-sm-pull-1">
+          <h3>Register</h3>
+          <p>for one whole <br> year of sponsored <br> printing</p>
+        </div>
       </div>
 
-      <div class="col-sm-2 col-md-2">
-        <img src="img/02_how to print_login icon.png" alt="">
-        <h3>Login</h3>
-        <p>to your personal <br> secured account <br> on the website </p>
+      <div class="col-sm-12 col-md-2">
+        <div class="col-md-12 col-sm-6 col-sm-push-2 img_login">
+          <img src="img/02_how to print_login icon.png" alt="">
+        </div>
+        <div class="col-md-12 col-sm-6 col-sm-pull-1">
+          <h3>Login</h3>
+          <p>to your personal <br> secured account <br> on the website </p>
+        </div>
       </div>
 
-      <div class="col-sm-2 col-md-2">
-        <img src="img/02_how to print_upload icon.png" alt="">
-        <h3>Upload</h3>
-        <p>your study <br> materials anytime <br> from any device</p>
+      <div class="col-sm-12 col-md-2">
+        <div class="col-md-12 col-sm-6 col-sm-push-2 img_upload ">
+          <img src="img/02_how to print_upload icon.png" alt="">
+        </div>
+        <div class="col-md-12 col-sm-6 col-sm-pull-1">
+          <h3>Upload</h3>
+          <p>your study <br> materials anytime <br> from any device</p>
+        </div>
       </div>
 
-      <div class="col-sm-2 col-md-2">
-        <img src="img/02_how to print_print icon.png" alt="">
-        <h3>Print</h3>
-        <p>at the nearest <br> FRUNI SPOT <br> in your campus</p>
+      <div class="col-sm-12 col-md-2">
+        <div class="col-md-12 col-sm-6 col-sm-push-2 img_print">
+          <img src="img/02_how to print_print icon.png" alt="">
+        </div>
+        <div class="col-md-12 col-sm-6 col-sm-pull-1">
+          <h3>Print</h3>
+          <p>at the nearest <br> FRUNI SPOT <br> in your campus</p>
+        </div>
       </div>
 
-      <div class="col-sm-2 col-md-2">
-        <img src="img/02_how to print_collect icon.png" alt="">
-        <h3>Collect</h3>
-        <p>your documents <br> and have an <br> awesome day</p>
+      <div class="col-sm-12 col-md-2">
+        <div class="col-md-12 col-sm-6 col-sm-push-2 img_collect">
+            <img src="img/02_how to print_collect icon.png" alt="">
+        </div>
+        <div class="col-md-12 col-sm-6 col-sm-pull-1">
+          <h3>Collect</h3>
+          <p>your documents <br> and have an <br> awesome day</p>
+        </div>
       </div>
     </div>
 
@@ -134,30 +154,49 @@
     </div>
   </div>
 
-  <div class="row camp_logo">
-    <div class="col-xs-12 col-sm-1 col-md-2 vline vline1">
-      <img src="img/04_campuses_taylors logo.png" alt=""><hr>
-      <strong>Taylor's Lakeside</strong><br>
-      Taylor's Business School <br> Divisional Office,Block E,L2
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline1">
+        <div class="col-md-12">
+          <img src="img/04_campuses_taylors logo.png" alt=""><hr>
+        </div>
+        <div class="col-md-12">
+          <strong>Taylor's Lakeside</strong><br>
+          Taylor's Business School <br> Divisional Office,Block E,L2
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline2">
+        <div class="col-md-12">
+          <img src="img/04_campuses_sunway logo.png" alt=""><hr>
+        </div>
+        <div class="col-md-12 col-xs-push-2 col-sm-push-0">
+          <strong>Sunway</strong><br>
+          Coming soon
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline3">
+        <div class="col-md-12">
+          <img src="img/04_campuses_monash logo.png" alt=""><hr>
+        </div>
+        <div class="col-md-12 col-xs-push-2 col-sm-push-0">
+          <strong>Monash</strong><br>
+          Coming soon
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 hr1">
+        <div class="col-xs-pull-2  col-sm-pull-0 col-md-12 inti_logo">
+          <img src="img/04_campuses_inti logo.png" alt=""><hr>
+        </div>
+        <div class="col-md-12 col-xs-push-2 col-sm-push-0">
+          <strong>INTI Subang</strong><br>
+          Coming soon
+        </div>
+      </div>
     </div>
 
-    <div class="col-xs-12 col-sm-1 col-md-2 vline vline2">
-      <img src="img/04_campuses_sunway logo.png" alt=""><hr>
-      <strong>Sunway</strong><br>
-      Coming soon
-    </div>
-
-    <div class="col-xs-12 col-sm-1 col-md-2 vline vline3">
-      <img src="img/04_campuses_monash logo.png" alt=""><hr>
-      <strong>Monash</strong><br>
-      Coming soon
-    </div>
-
-    <div class="col-xs-12 col-sm-1 col-md-2 hr1">
-      <img src="img/04_campuses_inti logo.png" alt=""><hr>
-      <strong>INTI Subang</strong><br>
-      Coming soon
-    </div>
   </div>
 
   <div class="row">
@@ -206,15 +245,15 @@
 
   <div class="row involve_logo">
     <div class="col-md-8 col-md-offset-2">
-      <div class="col-sm-4 col-md-4">
+      <div class="col-sm-4 col-md-4 fb_icon ">
         <img src="img/05_get involved_fb icon.png" alt="">
       </div>
 
-      <div class="col-sm-4 col-md-4">
+      <div class="col-sm-4 col-md-4 insta_icon">
         <img src="img/05_get involved_insta icon.png" alt="">
       </div>
 
-      <div class="col-sm-4 col-md-4">
+      <div class="col-sm-4 col-md-4 email_icon">
         <img src="img/05_get involved_email icon.png" alt="">
       </div>
     </div>
@@ -231,33 +270,33 @@
 <footer>
 <div class="student_footer">
   <div class="row stud_foot">
-    <div class="col-md-9 col-md-offset-2">
-      <div class="col-md-1 fb_involve">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-1 col-sm-1 col-xs-12 fb_involve">
         <img src="img/05_get involved_small fb icon.png" alt="">
       </div>
 
-      <div class="col-md-1 insta_involve">
+      <div class="col-md-1 col-sm-1 col-xs-12 insta_involve">
         <img src="img/05_get involved_small insta icon.png" alt="">
       </div>
 
-      <div class="col-md-2 text-center email_icon">
+      <div class="col-md-2 col-sm-2 col-xs-12 text-center email_icon">
         <img src="img/05_get involved_small email icon.png" alt="">
         <p>info@fruniprint.com</p>
       </div>
 
-      <div class="col-md-2 ftp_involve">
+      <div class="col-md-2 col-md-push-1 col-sm-2 col-sm-push-1 col-xs-12 ftp_involve">
          <a href="#">FAQ</a><br>
          <a href="#">Terms of Use </a><br>
          <a href="#">Privacy Policy</a>
       </div>
 
-      <div class="col-md-2 abf_involve">
+      <div class="col-md-2 col-md-push-1 col-sm-2 col-sm-push-1 col-xs-12  abf_involve">
         <a href="#">About</a><br>
         <a href="#">Blog</a><br>
         <a href="#">For Sponsors</a>
       </div>
 
-      <div class="col-md-4 copyright_involve">
+      <div class="col-md-4 col-md-push-1 col-sm-4 col-sm-push-1 col-xs-12 copyright_involve">
         <img src="img/05_get involved_copyright icon.png" alt="">
         FRUNI PRINT Sdn Bhd.2016.
       </div>

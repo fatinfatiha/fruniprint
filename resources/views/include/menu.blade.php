@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="navbar-header">
       <img src="img/fp logo low res.png" >
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-1">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>

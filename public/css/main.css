@@ -1,14 +1,24 @@
 
 @font-face{
-    font-family: 'robotomedium';
-    font-family: 'robotolight';
-    font-family: 'robotoregular';
-    src: url('/public/fonts/Roboto-Medium.ttf');
-    src: url('/public/fonts/Roboto-Light.ttf');
-    src: url('/public/fonts/Roboto-Regular.ttf');
+    font-family: robotomedium;
+    src: url('../fonts/Roboto-Medium.ttf');
 }
+
+@font-face{
+  font-family: robotolight;
+  src: url('../fonts/Roboto-Light.ttf');
+}
+
+@font-face{
+  font-family: robotoregular;
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+
+
+
+
 /*top bar menu*/
-.topbar li{
+.topbar li, a{
   font-family: 'robotomedium';
   font-weight: bold;
   font-size: medium;
@@ -23,10 +33,11 @@
 
 .homestudent{
   background-image:url('/img/home1.png');
-  background-size: 100%;
+  background-size: 100% 100%;
   height: auto;
   margin-top: -7%;
   padding: 50px;
+  background-repeat: no-repeat;
 }
 
 
@@ -181,7 +192,7 @@ li.active a{
   border-color: black;
   margin-top: 20%;
   width: 80%;
-  margin-left: 44%;
+  /*margin-left: 44%;*/
 
 }
 .invite_sentence{
@@ -333,7 +344,7 @@ li.active a{
 
 /*******************media query for home student********************/
 
-@media screen and (max-width: 768px){
+@media only screen and (max-width: 768px){
   .howtologo{
     text-align: center;
   }
@@ -342,6 +353,96 @@ li.active a{
     text-align: center;
   }
 
+
+  .vline {
+    border-right: none;
+  }
+  .vline1 hr {
+    border:none;
+  }
+
+  .vline2 hr {
+    border:none;
+  }
+
+  .vline3 hr {
+    border:none;
+  }
+
+  .hr1 hr {
+    border: none;
+  }
+
+  .progressbar img , .nav ul {
+    display: none;
+  }
+
+  .homestudent{
+    background-image:url('/img/home1.png');
+    background-size: 100% 100%;
+    height: auto;
+    margin-top: -12%;
+    padding: 50px;
+    background-repeat: no-repeat;
+    max-width: 103%;
+  }
+
+  .inti_logo img{
+    width: 248px;
+  }
+
+  .insta_icon img{
+    margin-top: 20px;
+  }
+
+  .email_icon img{
+    margin-top: 20px;
+  }
+
+  .insta_involve img{
+      margin-top: 20px;
+  }
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+
+ .img_register{
+   margin-top: 25px;
+ }
+
+ .img_login{
+    margin-top: 25px;
+ }
+
+ .img_upload{
+   margin-top: 25px;
+ }
+
+ .img_print{
+   margin-top: 25px;
+ }
+
+ .img_collect{
+   margin-top: 25px;
+ }
+
+}
+.vline {
+  border-right: none;
+}
+
+.homestudent{
+  background-image:url('/img/home1.png');
+  background-size: 100% 100%;
+  height: auto;
+  margin-top: -12%;
+  padding: 50px;
+  background-repeat: no-repeat;
+  max-width: 102%;
+}
 
 
 }
