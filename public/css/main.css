@@ -1,27 +1,26 @@
 
 @font-face{
-    font-family: robotomedium;
+    font-family: 'robotomedium';
     src: url('../fonts/Roboto-Medium.ttf');
 }
 
 @font-face{
-  font-family: robotolight;
-  src: url('../fonts/Roboto-Light.ttf');
+    font-family: 'robotolight';
+    src: url('../fonts/Roboto-Light.ttf');
 }
 
 @font-face{
-  font-family: robotoregular;
-  src: url('../fonts/Roboto-Regular.ttf');
+    font-family: 'robotoregular';
+    src: url('../fonts/Roboto-Regular.ttf');
 }
 
 
-
-
 /*top bar menu*/
-.topbar li, a{
-  font-family: 'robotomedium';
+.topbar li {
+  font-family: 'robotobold';
+  color: black;
   font-weight: bold;
-  font-size: medium;
+  font-size: large;
   margin-left: -1%
 }
 
@@ -57,7 +56,7 @@
   padding-top: 195px;
   margin-left: 67%;
 }
-.progressbar li, a{
+.progressbar a{
   list-style: none;
   height: 30px;
   color: black;
@@ -130,6 +129,7 @@ li.active a{
 }
 
 .adslogo h1{
+  font-family: 'robotolight';
   color: #0091ea;
   margin-top: 8%;
   font-size: 55px;
@@ -154,6 +154,7 @@ li.active a{
 }
 
 .campus_title h1{
+  font-family: 'robotolight';
   color: #0091ea;
   margin-top: 6%;
   font-size: 52px;
@@ -196,6 +197,7 @@ li.active a{
 
 }
 .invite_sentence{
+  font-family: 'robotolight';
   color: #0091ea;
   margin-top: 10%;
 }
@@ -214,12 +216,14 @@ li.active a{
 }
 
 .involve_title h1{
+  font-family: 'robotolight';
   color: white;
   margin-top: 8%;
   font-size: -webkit-xxx-large;
 }
 
 .involve_sentence{
+  font-family: 'robotoregular';
   margin-top: 6%;
   color: white;
 }
@@ -236,6 +240,7 @@ li.active a{
 }
 
 .connected_title h1{
+  font-family: 'robotolight';
   margin-top: 5%;
   color: #0091ea;
 }
@@ -245,6 +250,7 @@ li.active a{
   margin-top: 5%;
   width: 80%;*/
   text-align: center;
+  margin-top: 5%;
 }
 
 /********************footer***********************/
@@ -285,6 +291,7 @@ li.active a{
 }
 
 .faq_title h1{
+  font-family: 'robotolight';
   text-align: center;
   margin-top: 4%;
   color: #0091ea;
@@ -305,6 +312,7 @@ li.active a{
     /* border-radius: 4px; */
     border: none;
 }
+
 
 /******************end faq content*********************/
 
@@ -429,7 +437,7 @@ li.active a{
    margin-top: 25px;
  }
 
-}
+
 .vline {
   border-right: none;
 }
@@ -444,5 +452,13 @@ li.active a{
   max-width: 102%;
 }
 
+}
 
+/*******************end media query for student*********************/
+
+.invitation_background{
+  background-image: url('/img/02_how to print_blue gradient background.jpg');
+  background-size: 100% 100%;
+  height: 800px;
+  padding: 50px;
 }
