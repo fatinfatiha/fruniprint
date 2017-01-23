@@ -23,13 +23,13 @@
 
 <div id="homestudent" class="row homestudent">
     <div class="row">
-      <div class="col-md-12 livecounter">
+      <div class="col-md-8 col-md-offset-2 livecounter">
         <h2>Sponsored printing given this month</h2>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-12 text-center loginbtn ">
+      <div class="col-md-8 col-md-offset-2 text-center loginbtn ">
         <img src="img/loginbutton.png">
       </div>
     </div>
@@ -48,7 +48,7 @@
 
 <div id="homeprint" class="homeprint">
   <div class="row">
-    <div class="col-sm-12 col-md-12 printtitle">
+    <div class="col-sm-12 col-md-8 col-md-offset-2 printtitle">
       <h1>How to print</h1>
     </div>
   </div>
@@ -122,7 +122,7 @@
 
 <div id="ads_student" class="ads_student">
   <div class="row">
-    <div class="col-md-12 text-center adslogo">
+    <div class="col-md-8 col-md-offset-2 text-center adslogo">
       <h1>Ads for you</h1>
     </div>
   </div>
@@ -219,7 +219,7 @@
 
 <div id="get_involve" class="get_involve">
   <div class="row">
-    <div class="col-md-12 text-center involve_title">
+    <div class="col-md-8 col-md-offset-2 text-center involve_title">
       <h1>Get involved</h1>
     </div>
   </div>
@@ -230,7 +230,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md-12 text-center joinbtn">
+    <div class="col-md-8 col-md-offset-2 text-center joinbtn">
       <img src="img/joinbutton.png" alt="">
     </div>
   </div>
@@ -238,7 +238,7 @@
 
 <div class="stay_connected">
   <div class="row">
-    <div class="col-md-12 text-center connected_title">
+    <div class="col-md-8 col-md-offset-2 text-center connected_title">
       <h1>Stay connected</h1>
     </div>
   </div>
