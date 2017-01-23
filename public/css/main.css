@@ -31,7 +31,7 @@
 /**********************/
 
 .homestudent{
-  background-image:url('/img/home1.png');
+  background-image:url('../img/home1.png');
   background-size: 100% 100%;
   height: auto;
   margin-top: -7%;
@@ -97,7 +97,7 @@ li.active a{
 
 
 .homeprint{
-  background-image: url('/img/02_how to print_blue gradient background.jpg');
+  background-image: url('../img/02_how to print_blue gradient background.jpg');
   background-size: 100% 100%;
   height: auto;
   padding: 50px;
@@ -122,7 +122,7 @@ li.active a{
 /******************ads for you*******************/
 
 .ads_student{
-  background-image: url('/img/03_ads for you_hero image background.jpg');
+  background-image: url('../img/03_ads for you_hero image background.jpg');
   background-size: 100% 100%;
   height: auto;
   padding: 50px;
@@ -147,7 +147,7 @@ li.active a{
 /********************fruni spot************************/
 
 .campus_student{
-  background-image: url('/img/04_campuses_light grey background.jpg');
+  background-image: url('../img/04_campuses_light grey background.jpg');
   background-size: 100% 100%;
   height: auto;
   padding: 50px;
@@ -208,7 +208,7 @@ li.active a{
 /*******************get involve********************/
 
 .get_involve{
-  background-image: url('/img/05_get involved_blue background.jpg');
+  background-image: url('../img/05_get involved_blue background.jpg');
   background-size: 100% 100%;
   height: auto;
   padding: 50px;
@@ -233,7 +233,7 @@ li.active a{
 }
 
 .stay_connected{
-  background-image: url('/img/05_get involved_light grey background.jpg');
+  background-image: url('../img/05_get involved_light grey background.jpg');
   background-size: 100% 100%;
   height: auto;
   padding: 50px;
@@ -256,7 +256,7 @@ li.active a{
 /********************footer***********************/
 
 .student_footer{
-  background-image: url('/img/05_get involved_dark grey background.jpg');
+  background-image: url('../img/05_get involved_dark grey background.jpg');
   background-size: 100% 100%;
   height: auto;
   padding: 50px;
@@ -284,7 +284,7 @@ li.active a{
 /****************student home content end***********************/
 
 .faq_background{
-  background-image: url('/img/students_terms of use_light grey background.jpg');
+  background-image: url('../img/students_terms of use_light grey background.jpg');
   background-size: 100% 100%;
   height: auto;
   margin-top: -2%;
@@ -317,7 +317,7 @@ li.active a{
 /******************end faq content*********************/
 
 .policy_background{
-  background-image: url('/img/students_terms of use_light grey background.jpg');
+  background-image: url('../img/students_terms of use_light grey background.jpg');
   background-size: 100% 100%;
   height: auto;
   margin-top: -2%;
@@ -336,7 +336,7 @@ li.active a{
 /*******************end policy content*******************/
 
 .term_background{
-  background-image: url('/img/students_terms of use_light grey background.jpg');
+  background-image: url('../img/students_terms of use_light grey background.jpg');
   background-size: 100% 100%;
   height: auto;
   margin-top: -2%;
@@ -386,7 +386,7 @@ li.active a{
   }
 
   .homestudent{
-    background-image:url('/img/home1.png');
+    background-image:url('../img/home1.png');
     background-size: 100% 100%;
     height: auto;
     margin-top: -12%;
@@ -443,7 +443,7 @@ li.active a{
 }
 
 .homestudent{
-  background-image:url('/img/home1.png');
+  background-image:url('../img/home1.png');
   background-size: 100% 100%;
   height: auto;
   margin-top: -12%;
@@ -457,7 +457,7 @@ li.active a{
 /*******************end media query for student*********************/
 
 .invitation_background{
-  background-image: url('/img/02_how to print_blue gradient background.jpg');
+  background-image: url('../img/02_how to print_blue gradient background.jpg');
   background-size: 100% 100%;
   height: 800px;
   padding: 50px;
