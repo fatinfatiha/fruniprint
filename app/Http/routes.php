@@ -16,17 +16,45 @@
 // });
 
 Route::get('/', function () {
-    return view('pages.home');
+    return view('student.pages.home');
 });
 
 Route::get('faq', function () {
-    return view('pages.faq');
+    return view('student.pages.faq');
 });
 
 Route::get('policy', function () {
-    return view('pages.policy');
+    return view('student.pages.policy');
 });
 
 Route::get('term', function () {
-    return view('pages.terms');
+    return view('student.pages.terms');
+});
+
+Route::get('invitation', function () {
+    return view('student.pages.invite_form');
+});
+
+Route::get('invite-success', function () {
+    return view('student.pages.invite_success');
+});
+
+Route::get('join', function () {
+    return view('student.pages.join_form');
+});
+
+Route::get('join-success', function () {
+    return view('student.pages.join_success');
+});
+
+Route::get('sponsor', function () {
+    return view('sponsor.pages.home');
+});
+
+Route::get('enquiry', function () {
+    return view('sponsor.pages.sponsor_enquiry');
+});
+
+Route::get('enquiry-success', function () {
+    return view('sponsor.pages.enquiry_successful');
 });

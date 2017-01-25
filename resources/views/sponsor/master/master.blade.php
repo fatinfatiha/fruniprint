@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    @include('include.header')
+    @include('sponsor.include.header')
     <meta charset="utf-8">
     <title>FRUNIPRINT</title>
   </head>
   <body>
-    @include('include.menu')
+    @include('sponsor.include.menu')
 
     @yield('content')
 
   </body>
-    @include('include.footer')
+    @include('sponsor.include.footer')
 </html>
