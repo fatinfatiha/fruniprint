@@ -4,7 +4,7 @@
 
 <!-- ***************HOME***************** -->
 <body data-spy="scroll" data-target="#mainSidebar" data-offset="170">
-  <div class="row">
+  <!-- <div class="row"> -->
     <div id="mainSidebar" class="navbar nav">
       <div class="col-md-1 col-md-offset-5 progressbar">
           <img src="img/progress bar.png" alt="">
@@ -19,10 +19,10 @@
           </ul>
         </div>
     </div>
-  </div>
+  <!-- </div> -->
 
 <div id="homestudent" class="row homestudent">
-    <div class="row">
+    <!-- <div class="row"> -->
       <div class="col-md-8 col-md-offset-2 livecounter">
         <h2>Sponsored printing given this month</h2>
       </div>
@@ -78,7 +78,7 @@
 
 
       </div>
-    </div>
+    <!-- </div> -->
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center loginbtn ">
