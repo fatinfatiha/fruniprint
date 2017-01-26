@@ -54,7 +54,7 @@
       <div class="col-md-8 col-md-push-3 ">
         <div class="form-group">
           <div class="col-sm-offset-2 col-sm-10 btn_invite">
-            <input type="submit" name="button2" value="INVITE" class="btn btn-default"></button>
+            <a href="invite-success"><input type="submit" name="button2" value="INVITE" class="btn btn-default"></button></a>
           </div>
         </div>
         </div>

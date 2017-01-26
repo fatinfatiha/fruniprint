@@ -48,7 +48,7 @@ Route::get('join-success', function () {
 });
 
 Route::get('sponsor', function () {
-    return view('sponsor.pages.home');
+    return view('sponsor.pages.homesponsor');
 });
 
 Route::get('enquiry', function () {
@@ -57,4 +57,12 @@ Route::get('enquiry', function () {
 
 Route::get('enquiry-success', function () {
     return view('sponsor.pages.enquiry_successful');
+});
+
+Route::get('under-construction', function () {
+    return view('sponsor.pages.under_construction');
+});
+
+Route::get('under_construction', function () {
+    return view('student.pages.under_construction_student');
 });

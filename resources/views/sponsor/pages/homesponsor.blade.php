@@ -48,7 +48,7 @@
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center get_in_touch">
-        <button type="button" class="btn btn-default">GET IN TOUCH</button>
+        <a href="enquiry"><button type="button" class="btn btn-default">GET IN TOUCH</button></a>
       </div>
     </div>
 
@@ -340,7 +340,7 @@
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center get_in_touch">
-        <button type="button" class="btn btn-default">GET IN TOUCH</button>
+        <a href="enquiry"><button type="button" class="btn btn-default">GET IN TOUCH</button></a>
       </div>
     </div>
 </div>
@@ -355,6 +355,16 @@ $('#mainSidebar ul li a').bind('click', function(e) {
       scrollTop: $(this.hash).offset().top -190
   }, 300);
   // edit: Opera requires the "html" elm. animated
+});
+
+</script>
+
+<script type="text/javascript">
+$('a').click(function(){
+    $('html, body').animate({
+        scrollTop: $( $(this).attr('href') ).offset().top
+    }, 500);
+    return false;
 });
 
 </script>

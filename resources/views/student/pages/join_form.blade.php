@@ -50,7 +50,7 @@
     <div class="col-md-10 col-md-push-3 ">
       <div class="form-group">
         <div class="col-sm-offset-2 col-sm-10 btn_join">
-          <input type="submit" name="button2" value="JOIN" class="btn btn-default"></button>
+          <a href="join-success"><input type="submit" name="button2" value="JOIN" class="btn btn-default"></button></a>
         </div>
       </div>
       </div>

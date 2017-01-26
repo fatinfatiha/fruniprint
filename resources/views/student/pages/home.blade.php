@@ -26,17 +26,69 @@
       <div class="col-md-8 col-md-offset-2 livecounter">
         <h2>Sponsored printing given this month</h2>
       </div>
+      <div class="col-xs-12 col-md-4 col-md-push-4">
+
+        <div class="col-xs-2 col-md-2">
+          <div class="animated flipInX card">
+            <div class="number">
+              <h1>0</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-2 col-md-2">
+          <div class="animated flipInX card">
+            <div class="number">
+              <h1>1</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-2 col-md-2">
+          <div class="animated flipInX card">
+            <div class="number">
+              <h1>2</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-2 col-md-2">
+          <div class="animated flipInX card">
+            <div class="number">
+              <h1>3</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-2 col-md-2">
+          <div class="animated flipInX card">
+            <div class="number">
+              <h1>4</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-2 col-md-2">
+          <div class="animated flipInX card">
+            <div class="number">
+              <h1>5</h1>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
     </div>
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center loginbtn ">
-        <img src="img/loginbutton.png">
+        <a href="http://member.fruniprint.com/"><img src="img/loginbutton.png"></a>
       </div>
     </div>
 
     <div class="row">
       <div class="col-md-12 text-center arrowbtn">
-        <img src="img/01_home_arrow down.png" alt="">
+        <a href="#homeprint"><img src="img/01_home_arrow down.png" alt=""></a>
       </div>
     </div>
 
@@ -110,7 +162,7 @@
 
   <div class="row">
     <div class="col-md-12 regbtn">
-      <img src="img/registerbutton.png" alt="">
+      <a href="http://www.fruniprint.com/Register.aspx"><img src="img/registerbutton.png" alt=""></a>
     </div>
   </div>
 
@@ -207,7 +259,7 @@
 
   <div class="row">
     <div class="col-sm-12 col-md-12 text-center invitebtn">
-      <img src="img/invitebutton.png" alt="">
+      <a href="invitation"><img src="img/invitebutton.png" alt=""></a>
     </div>
   </div>
 
@@ -225,13 +277,13 @@
   </div>
 
   <div class="row">
-    <div class="col-md-12 text-center involve_sentence">
+    <div class="col-md-8 col-md-offset-2 text-center involve_sentence">
       Wanna join the journey? <br> Become our Campus Ambassador and get rewarded.
     </div>
   </div>
   <div class="row">
     <div class="col-md-8 col-md-offset-2 text-center joinbtn">
-      <img src="img/joinbutton.png" alt="">
+      <a href="join"><img src="img/joinbutton.png" alt=""></a>
     </div>
   </div>
 </div>
@@ -246,15 +298,15 @@
   <div class="row involve_logo">
     <div class="col-md-8 col-md-offset-2">
       <div class="col-sm-4 col-md-4 fb_icon ">
-        <img src="img/05_get involved_fb icon.png" alt="">
+        <a href="#"><img src="img/05_get involved_fb icon.png" alt=""></a>
       </div>
 
       <div class="col-sm-4 col-md-4 insta_icon">
-        <img src="img/05_get involved_insta icon.png" alt="">
+        <a href="#"><img src="img/05_get involved_insta icon.png" alt=""></a>
       </div>
 
       <div class="col-sm-4 col-md-4 email_icon">
-        <img src="img/05_get involved_email icon.png" alt="">
+        <a href="#"><img src="img/05_get involved_email icon.png" alt=""></a>
       </div>
     </div>
 
@@ -273,6 +325,16 @@ $('#mainSidebar ul li a').bind('click', function(e) {
       scrollTop: $(this.hash).offset().top -190
   }, 300);
   // edit: Opera requires the "html" elm. animated
+});
+
+</script>
+
+<script type="text/javascript">
+$('a').click(function(){
+  $('html, body').animate({
+      scrollTop: $( $(this).attr('href') ).offset().top
+  }, 500);
+  return false;
 });
 
 </script>

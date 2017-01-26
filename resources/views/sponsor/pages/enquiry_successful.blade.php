@@ -12,7 +12,7 @@
       </div>
 
       <div class="to_home_sponsor">
-        <h4>Go back <a href="#">Home</a></h4>
+        <h4>Go back <a href="sponsor">Home</a></h4>
       </div>
 
 

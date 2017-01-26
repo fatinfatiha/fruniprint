@@ -1,3 +1,86 @@
+.card{
+  width: 50px;
+  height: 80px;
+  background: #0091ea;
+  border-radius: 10px;
+}
+
+.number h1{
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-size: 55px;
+}
+
+/*.card2{
+  width: 50px;
+  height: 80px;
+  background: #0091ea;
+  border-radius: 10px;
+}
+
+.number2 h1{
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-size: 55px;
+}
+
+.card3{
+  width: 50px;
+  height: 80px;
+  background: #0091ea;
+  border-radius: 10px;
+}
+
+.number3 h1{
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-size: 55px;
+}
+
+.card4{
+  width: 50px;
+  height: 80px;
+  background: #0091ea;
+  border-radius: 10px;
+}
+
+.number4 h1{
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-size: 55px;
+}
+
+.card5{
+  width: 50px;
+  height: 80px;
+  background: #0091ea;
+  border-radius: 10px;
+}
+
+.number5 h1{
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-size: 55px;
+}
+
+.card6{
+  width: 50px;
+  height: 80px;
+  background: #0091ea;
+  border-radius: 10px;
+}
+
+.number6 h1{
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-size: 55px;
+}*/
 
 @font-face{
     font-family: 'robotomedium';
@@ -49,11 +132,10 @@
   padding-top: 174px;
 }
 
-.progressbar .nav>li>a:hover {
+.progressbar .nav>li>a:hover,.progressbar .nav>li>a:focus {
 
- background-color: transparent;
+  background: none !important;
 }
-
 .nav ul{
   /*margin-top: 23%;*/
   position: absolute;
@@ -529,6 +611,12 @@ li.active a{
     margin-top: 50px;
 }
 
+.btn_invite .btn-default:hover,.btn_invite .btn-default:focus{
+  color: white;
+  background: #F40057;
+  border-color: none;
+}
+
 .form_content{
     margin-top: 40px;
 }
@@ -630,6 +718,12 @@ li.active a{
     width: 13%;
 }
 
+.btn_join .btn-default:hover,.btn_join .btn-default:focus{
+  color: white;
+  background: #F40057;
+  border-color: none;
+}
+
 /********************join form end**********************/
 
 /******************join success**********************/
@@ -711,6 +805,14 @@ li.active a{
    margin-top: 50px;
    /*width: 13%;*/
  }
+
+ .get_in_touch .btn-default:hover,.get_in_touch .btn-default:focus {
+     color: white;
+     background: #F40057;
+     border-color: none;
+}
+
+
 
  /*********************home page sponsor end******************/
 
@@ -1009,6 +1111,12 @@ li.active a{
     margin-top: 50px;
 }
 
+.btn_submit .btn-default:hover,.btn_submit .btn-default:focus{
+  color: white;
+  background: #F40057;
+  border-color: none;
+}
+
 .enquiry_content{
   margin-top: 90px;
 }
@@ -1125,4 +1233,48 @@ li.active a{
     border-style: none;
     border-width: none;
   }
+}
+
+/***********************under construction page***************************/
+
+.under_construction{
+  background-image: url('../img/02_how to print_blue gradient background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.construction_text h4{
+  margin-top: 10%;
+  font-family: 'robotolight';
+  color: white;
+}
+
+.construction_text2 h5{
+  margin-top: 5%;
+  font-size: 16px;
+  font-family: 'robotolight';
+  color: yellow;
+}
+
+/*******************under construction for student page**********************/
+
+.under_construction_student{
+  background-image: url('../img/02_how to print_blue gradient background.jpg');
+  background-size: 100% 100%;
+  height: auto;
+  padding: 50px;
+}
+
+.construction_student_text h4{
+  margin-top: 10%;
+  font-family: 'robotolight';
+  color: white;
+}
+
+.construction_student_text2 h5{
+  margin-top: 5%;
+  font-size: 16px;
+  font-family: 'robotolight';
+  color: yellow;
 }
