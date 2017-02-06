@@ -220,7 +220,7 @@
           </div>
         </div>
         <div class="col-xs-6  col-md-3 trusted_border2">
-          <div class="col-md-12">
+          <div class="col-md-12 heavy">
             <img src="img/trusted_logo/heavy weight.png" class="img-responsive" alt="">
           </div>
         </div>

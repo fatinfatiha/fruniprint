@@ -6,8 +6,8 @@
       <h1>Invite</h1>
     </div>
 
-    <div class="col-md-12 col-md-offset-2 ">
-      <div class="col-md-8 col-md-offset-1 text-center">
+    <div class="col-xs-12 col-md-12 col-md-offset-2 ">
+      <div class="col-xs-12 col-md-8 col-md-offset-1 text-center">
         <form class="form-horizontal form_content">
           <div class="form-group">
             <label for="name" class="col-sm-2 control-label">Name</label>

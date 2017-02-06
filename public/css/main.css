@@ -12,75 +12,6 @@
   font-size: 55px;
 }
 
-/*.card2{
-  width: 50px;
-  height: 80px;
-  background: #0091ea;
-  border-radius: 10px;
-}
-
-.number2 h1{
-  text-align: center;
-  line-height: 80px;
-  color: white;
-  font-size: 55px;
-}
-
-.card3{
-  width: 50px;
-  height: 80px;
-  background: #0091ea;
-  border-radius: 10px;
-}
-
-.number3 h1{
-  text-align: center;
-  line-height: 80px;
-  color: white;
-  font-size: 55px;
-}
-
-.card4{
-  width: 50px;
-  height: 80px;
-  background: #0091ea;
-  border-radius: 10px;
-}
-
-.number4 h1{
-  text-align: center;
-  line-height: 80px;
-  color: white;
-  font-size: 55px;
-}
-
-.card5{
-  width: 50px;
-  height: 80px;
-  background: #0091ea;
-  border-radius: 10px;
-}
-
-.number5 h1{
-  text-align: center;
-  line-height: 80px;
-  color: white;
-  font-size: 55px;
-}
-
-.card6{
-  width: 50px;
-  height: 80px;
-  background: #0091ea;
-  border-radius: 10px;
-}
-
-.number6 h1{
-  text-align: center;
-  line-height: 80px;
-  color: white;
-  font-size: 55px;
-}*/
 
 @font-face{
     font-family: 'robotomedium';
@@ -101,7 +32,7 @@
 /*top bar menu*/
 .topbar li {
   font-family: 'robotomedium';
-  color: black;
+  /*color: black;*/
   font-weight: bold;
   font-size: large;
   margin-left: -1%
@@ -526,10 +457,29 @@ li.active a{
   .insta_involve img{
       margin-top: 20px;
   }
+  .form_content .form-control {
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid white;
+      box-shadow: none;
+      border-radius: 0px;
+      width: 100%;
+      height: auto;
+  }
 
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+  .form_content .form-control {
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid white;
+      box-shadow: none;
+      border-radius: 0px;
+      width: 100%;
+      height: auto;
+  }
+
 
  .img_register{
    margin-top: 25px;
@@ -928,6 +878,11 @@ li.active a{
   margin-top: 10%;
 }
 
+.heavy img{
+  margin-top: 40px;
+  width: 80%;
+}
+
 .whoosh img{
   margin-top: 20px;
 }
@@ -1176,19 +1131,19 @@ li.active a{
 
 @media only screen and (max-width: 768px){
 
-  .vulcan{
+  .vulcan img{
     margin-top: 25px;
   }
 
-  .bfm{
+  .bfm img{
     margin-top: 25px;
   }
 
-  .malaymail{
+  .malaymail img{
     margin-top: 25px;
   }
 
-  .dna{
+  .dna img{
     margin-top: 25px;
   }
 
@@ -1232,6 +1187,35 @@ li.active a{
     height: 130px;
     border-style: none;
     border-width: none;
+  }
+
+
+.enquiry_content .form-control {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    box-shadow: none;
+    border-radius: 0px;
+     width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+  .vulcan img{
+    margin-top: 25px;
+  }
+
+  .bfm img{
+    margin-top: 25px;
+  }
+
+  .malaymail img{
+    margin-top: 25px;
+  }
+
+  .dna img{
+    margin-top: 25px;
   }
 }
 
