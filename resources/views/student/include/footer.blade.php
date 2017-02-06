@@ -21,7 +21,7 @@
       </div>
 
       <div class="col-md-2 abf_involve">
-        <a href="under_construction">About</a><br>
+        <a href="About">About</a><br>
         <a href="under_construction">Blog</a><br>
         <a href="sponsor">For Sponsors</a>
       </div>

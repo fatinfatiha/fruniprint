@@ -11,7 +11,7 @@
     <div class="collapse navbar-collapse" id="navbar-1">
       <ul class="nav navbar-nav navbar-right topbar">
         <li><a href="/">For Student</a></li>
-        <li><a href="under-construction">About</a></li>
+        <li><a href="about">About</a></li>
         <li><a href="under-construction">Blog</a></li>
         <!-- <li><a href="#">FAQ</a></li> -->
         <li><a href="http://member.fruniprint.com/"><span>Login</span></a></li>

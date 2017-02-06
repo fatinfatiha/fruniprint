@@ -12,7 +12,7 @@
 
 
       <div class="col-md-2 abf_involve_sponsor">
-        <a href="under-construction">About</a><br>
+        <a href="about">About</a><br>
         <a href="under-construction">Blog</a><br>
         <a href="/">For Students</a>
       </div>

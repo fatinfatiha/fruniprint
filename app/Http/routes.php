@@ -66,3 +66,11 @@ Route::get('under-construction', function () {
 Route::get('under_construction', function () {
     return view('student.pages.under_construction_student');
 });
+
+Route::get('about', function () {
+    return view('sponsor.pages.about');
+});
+
+Route::get('About', function () {
+    return view('student.pages.about_student');
+});
