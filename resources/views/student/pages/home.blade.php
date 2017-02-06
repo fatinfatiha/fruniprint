@@ -20,9 +20,12 @@
         </div>
     </div>
   <!-- </div> -->
+<div class="row">
+<div id="homestudent" class="homestudent">
 
-<div id="homestudent" class="row homestudent">
-    <!-- <div class="row"> -->
+    <div class="container">
+
+    <div class="row">
       <div class="col-md-8 col-md-offset-2 livecounter">
         <h2>Sponsored printing given this month</h2>
       </div>
@@ -75,10 +78,9 @@
             </div>
           </div>
         </div>
-
-
+        </div>
       </div>
-    <!-- </div> -->
+
 
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center loginbtn ">
@@ -91,7 +93,8 @@
         <a href="#homeprint"><img src="img/01_home_arrow down.png" alt=""></a>
       </div>
     </div>
-
+</div>
+</div>
 </div>
 
 <!-- *************END HOME********************** -->

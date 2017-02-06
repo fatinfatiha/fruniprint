@@ -36,6 +36,7 @@
   font-weight: bold;
   font-size: large;
   margin-left: -1%
+
 }
 
 .topbar span{
@@ -48,9 +49,10 @@
   background-image:url('../img/home1.png');
   background-size: 100% 100%;
   height: auto;
-  margin-top: -7%;
+  margin-top: -2%;
   padding: 50px;
   background-repeat: no-repeat;
+
 }
 
 
@@ -89,6 +91,7 @@ li.active a{
 #mainSidebar{
   position: fixed;
 }
+
 
 .livecounter h2{
   font-family: 'robotoregular';

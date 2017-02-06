@@ -1,5 +1,6 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
+    <div class="row">
     <div class="navbar-header">
       <a href="/"><img src="img/fp logo low res.png"></a>
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -19,4 +20,5 @@
       </ul>
     </div>
   </div>
+</div>
 </nav>
