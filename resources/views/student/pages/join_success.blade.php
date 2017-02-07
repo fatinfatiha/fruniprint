@@ -16,6 +16,6 @@
       </div>
 
       <div class="to_home1">
-        <h4>Go back <a href="/">Home</a></h4>
+        <h4>Go back <a href="{{url('/')}}">Home</a></h4>
 
       </div>

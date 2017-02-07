@@ -14,7 +14,7 @@
       <div class="col-md-2 abf_involve_sponsor">
         <a href="About">About</a><br>
         <a href="under_construction">Blog</a><br>
-        <a href="/">For Students</a>
+        <a href="{{url('/')}}">For Students</a>
       </div>
 
       <div class="col-md-4 copyright_involve_sponsor">

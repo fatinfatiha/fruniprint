@@ -10,7 +10,7 @@
     </div>
     <div class="collapse navbar-collapse" id="navbar-1">
       <ul class="nav navbar-nav navbar-right topbar">
-        <li><a href="/">For Student</a></li>
+        <li><a href="{{url('/')}}">For Student</a></li>
         <li><a href="About">About</a></li>
         <li><a href="under_construction">Blog</a></li>
         <!-- <li><a href="#">FAQ</a></li> -->

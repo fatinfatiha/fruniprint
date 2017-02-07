@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="row">
     <div class="navbar-header">
-      <a href="/"><img src="img/fp logo low res.png"></a>
+      <a href="{{url('/')}}"><img src="img/fp logo low res.png"></a>
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
