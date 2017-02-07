@@ -12,8 +12,8 @@
 
 
       <div class="col-md-2 abf_involve_sponsor">
-        <a href="about">About</a><br>
-        <a href="under-construction">Blog</a><br>
+        <a href="About">About</a><br>
+        <a href="under_construction">Blog</a><br>
         <a href="/">For Students</a>
       </div>
 
