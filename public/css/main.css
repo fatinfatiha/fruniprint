@@ -47,7 +47,7 @@
 
 .homestudent{
   background-image:url('../img/home1.png');
-  background-size: 99% 100%;
+  background-size: 100% 100%;
   height: auto;
   margin-top: -2%;
   padding: 50px;
@@ -411,9 +411,47 @@ li.active a{
     text-align: center;
   }
 
+  .card{
+    width: 45px;
+    border-radius: 5px;
+    margin-left: -15px;
+  }
+
+  .number h1{
+    font-size: 35px;
+  }
+
   .print_content{
     margin-top: 15%;
   }
+
+  .printtitle h1{
+    font-size: 35px;
+  }
+
+  .ads_student{
+    height: auto;
+  }
+
+  .adslogo h1{
+    font-size: 35px;
+  }
+
+  .sentence1 h3{
+    font-size: 20px;
+  }
+
+  .sentence2 h3{
+    font-size: 20px;
+  }
+
+  .container.campus{
+    padding-left: 0px;
+  }
+  .campus_title h1{
+    font-size: 35px;
+  }
+
 
   .stud_foot{
     text-align: center;
@@ -444,34 +482,18 @@ li.active a{
   }
 
   .homestudent{
-    background-image:url('../img/home1.png');
-    background-size: 100% 100%;
-    height: auto;
+    max-width: 100%;
     margin-top: -6%;
-    padding: 50px;
-    background-repeat: no-repeat;
-    max-width: 97%;
   }
 
   .inti_logo img{
-    width: 248px;
+    width: 180px;
   }
 
   .email_icon p {
     color: transparent;
   }
 
-  /*.insta_icon img{
-    margin-top: 20px;
-  }
-
-  .email_icon img{
-    margin-top: 20px;
-  }*/
-
-  /*.insta_involve img{
-      margin-top: 20px;
-  }*/
   .form_content .form-control {
       background-color: transparent;
       border: none;
@@ -484,6 +506,14 @@ li.active a{
 
   .student_title h1{
     font-size: 35px;
+  }
+
+  .involve_title h1{
+    font-size: 30px;
+  }
+
+  .connected_title h1{
+    font-size: 30px;
   }
 
 }
@@ -1200,6 +1230,11 @@ li.active a{
     text-align: -webkit-center;
   }
 
+  .row.featured{
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
   .featured_logo{
     margin-top: 10%;
   }
@@ -1266,6 +1301,10 @@ li.active a{
     border-radius: 0px;
      width: 100%;
     height: auto;
+  }
+
+  .homesponsor{
+    margin-top: -5%;
   }
 }
 

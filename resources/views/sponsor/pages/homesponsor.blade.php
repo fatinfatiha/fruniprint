@@ -51,48 +51,45 @@
         <a href="enquiry"><button type="button" class="btn btn-default">GET IN TOUCH</button></a>
       </div>
     </div>
-
   </div>
 
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center featured_text">
+      <div class="col-xs-12 col-md-8 col-md-offset-2 text-center ">
         <h2>Featured in</h2> <br>
       </div>
-    </div>
+    <!-- </div> -->
 
-    <div class="row">
-      <div class="container">
-        <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-10 col-md-offset-2 col-lg-10 col-lg-offset-2 featured">
+    <div class="row featured">
 
-          <div class="col-xs-12 col-xs-push-4 col-sm-push-0 col-md-2 featured_logo">
+        <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-10 col-md-offset-2 col-lg-10 col-lg-offset-2">
+
+          <div class="text-center">
+
+
+          <div class="col-xs-12 col-sm-push-0 col-md-2 featured_logo">
             <img src="img/20_sponsors home_the star.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-push-4 col-sm-push-0 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-push-0 col-md-2 featured_logo">
             <img src="img/20_sponsors home_vulcan post.png" alt="">
           </div>
 
-          <div class="col-xs-12 col-xs-push-4 col-sm-push-0 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-push-0 col-md-2 featured_logo">
             <img src="img/20_sponsors home_bfm.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-push-4 col-sm-push-0 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-push-0 col-md-2 featured_logo">
             <img src="img/20_sponsors home_malaymail.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-push-4 col-sm-push-0 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-push-0 col-md-2 featured_logo">
             <img src="img/20_sponsors home_dna.png" alt="">
           </div>
+          </div>
         </div>
-      </div>
-
-    </div>
 
 
-
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center arrow">
+    <!-- </div> -->
+      <div class="col-xs-12 col-md-8 col-md-offset-2 text-center arrow">
         <a href="#value_page"><img src="img/20_sponsors home_arrow down.png" alt=""></a>
       </div>
-    </div>
-
+      </div>
 <!-- ***********************end home sponsor************************ -->
 
 <div id="value_page" class="value_page">
