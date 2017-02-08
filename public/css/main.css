@@ -47,7 +47,7 @@
 
 .homestudent{
   background-image:url('../img/home1.png');
-  background-size: 100% 100%;
+  background-size: 99% 100%;
   height: auto;
   margin-top: -2%;
   padding: 50px;
@@ -133,6 +133,8 @@ li.active a{
 
 .howtologo{
   margin-top: 55px;
+  font-family: 'robotolight';
+  color: white;
 }
 
 .regbtn{
@@ -145,24 +147,26 @@ li.active a{
 .ads_student{
   background-image: url('../img/03_ads for you_hero image background.jpg');
   background-size: 100% 100%;
-  height: auto;
+  height: 600px;;
   padding: 50px;
 }
 
 .adslogo h1{
   font-family: 'robotolight';
   color: #0091ea;
-  margin-top: 8%;
+  /*margin-top: 8%;*/
   font-size: 55px;
 }
 
 .sentence1 h3{
-  margin-top: 7%;
+  /*margin-top: 7%;*/
   color: white;
+  font-family: 'robotolight';
 }
 
 .sentence2 h3{
   color: white;
+  font-family: 'robotolight';
 }
 
 /********************fruni spot************************/
@@ -407,6 +411,10 @@ li.active a{
     text-align: center;
   }
 
+  .print_content{
+    margin-top: 15%;
+  }
+
   .stud_foot{
     text-align: center;
   }
@@ -439,27 +447,31 @@ li.active a{
     background-image:url('../img/home1.png');
     background-size: 100% 100%;
     height: auto;
-    margin-top: -12%;
+    margin-top: -6%;
     padding: 50px;
     background-repeat: no-repeat;
-    max-width: 103%;
+    max-width: 97%;
   }
 
   .inti_logo img{
     width: 248px;
   }
 
-  .insta_icon img{
+  .email_icon p {
+    color: transparent;
+  }
+
+  /*.insta_icon img{
     margin-top: 20px;
   }
 
   .email_icon img{
     margin-top: 20px;
-  }
+  }*/
 
-  .insta_involve img{
+  /*.insta_involve img{
       margin-top: 20px;
-  }
+  }*/
   .form_content .form-control {
       background-color: transparent;
       border: none;
@@ -468,6 +480,10 @@ li.active a{
       border-radius: 0px;
       width: 100%;
       height: auto;
+  }
+
+  .student_title h1{
+    font-size: 35px;
   }
 
 }
@@ -764,6 +780,11 @@ li.active a{
      background: #F40057;
      border-color: none;
 }
+
+.arrow{
+  margin-top: 5%;
+}
+
 
 
 
@@ -1134,20 +1155,64 @@ li.active a{
 
 @media only screen and (max-width: 768px){
 
-  .vulcan img{
-    margin-top: 25px;
+  .frunilogo img{
+    width: 70%;
+  }
+  .sponsor_text1 h1{
+    font-size: 30px;
+  }
+  .sponsor_text2 h3{
+    font-size: 20px;
+  }
+  .sponsor_text3 h4{
+    font-size: 15px;
   }
 
-  .bfm img{
-    margin-top: 25px;
+  .value_title h1{
+    font-size: 30px;
   }
 
-  .malaymail img{
-    margin-top: 25px;
+  .control_ads{
+    height: 330px;
   }
 
-  .dna img{
-    margin-top: 25px;
+  .control_ads_title h1 {
+    font-size: 30px;
+  }
+
+  .control_ads_text h3{
+    font-size: 19px;
+  }
+
+  .value_page{
+    background-image:none;
+  }
+
+  .highly_target p{
+    text-align: -webkit-center;
+  }
+
+  .multiple_impression p{
+    text-align: -webkit-center;
+  }
+
+  .maximised_lifespan p{
+    text-align: -webkit-center;
+  }
+
+  .featured_logo{
+    margin-top: 10%;
+  }
+
+  .img_control_ads img{
+    display: none;
+  }
+  .student_title h1{
+    font-size: 30px;
+  }
+
+  .trustedby_title h1{
+    font-size: 30px;
   }
 
   .trusted_border{
@@ -1205,21 +1270,7 @@ li.active a{
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
-  .vulcan img{
-    margin-top: 25px;
-  }
 
-  .bfm img{
-    margin-top: 25px;
-  }
-
-  .malaymail img{
-    margin-top: 25px;
-  }
-
-  .dna img{
-    margin-top: 25px;
-  }
 }
 
 /***********************under construction page***************************/

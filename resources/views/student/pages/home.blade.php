@@ -120,7 +120,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2">
+      <div class="col-sm-12 col-md-2 print_content">
         <div class="col-md-12 col-sm-6 col-sm-push-2 img_login">
           <img src="img/02_how to print_login icon.png" alt="">
         </div>
@@ -130,7 +130,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2">
+      <div class="col-sm-12 col-md-2 print_content">
         <div class="col-md-12 col-sm-6 col-sm-push-2 img_upload ">
           <img src="img/02_how to print_upload icon.png" alt="">
         </div>
@@ -140,7 +140,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2">
+      <div class="col-sm-12 col-md-2 print_content">
         <div class="col-md-12 col-sm-6 col-sm-push-2 img_print">
           <img src="img/02_how to print_print icon.png" alt="">
         </div>
@@ -150,7 +150,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2">
+      <div class="col-sm-12 col-md-2 print_content">
         <div class="col-md-12 col-sm-6 col-sm-push-2 img_collect">
             <img src="img/02_how to print_collect icon.png" alt="">
         </div>
@@ -177,21 +177,21 @@
 
 <div id="ads_student" class="ads_student">
   <div class="row">
-    <div class="col-md-8 col-md-offset-2 text-center adslogo">
+    <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 text-left adslogo">
       <h1>Ads for you</h1>
     </div>
   </div>
 
   <div class="row">
-    <div class="col-md col-md-offset-2 sentence1">
-      <h3>We let university students <br> print for free by placing <br>
-        advertisements at the <br> back of the paper.</h3>
+    <div class="col-md-4 col-md-offset-2 col-sm-4 col-sm-offset-2 col-xs-12 sentence1">
+      <h3>We let university students print for free by placing
+          advertisements at the back of the paper.</h3>
     </div>
   </div>
 
   <div class="row">
-    <div class="col-md col-md-offset-2 sentence2">
-      <h3>You will have access <br> to the best deals <br> and opportunities <br>
+    <div class="col-md-4 col-md-offset-2 col-sm-4 col-sm-offset-2 col-xs-12 sentence2">
+      <h3>You will have access to the best deals and opportunities
         targeting youth.</h3>
     </div>
   </div>
@@ -210,47 +210,50 @@
   </div>
 
   <div class="row">
-    <div class="col-md-8 col-md-offset-2">
-      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline1">
-        <div class="col-md-12">
-          <img src="img/04_campuses_taylors logo.png" alt=""><hr>
+    <div class="container">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline1">
+          <div class="col-md-12">
+            <img src="img/04_campuses_taylors logo.png" alt=""><hr>
+          </div>
+          <div class="col-md-12">
+            <strong>Taylor's Lakeside</strong><br>
+            Taylor's Business School <br> Divisional Office,Block E,L2
+          </div>
         </div>
-        <div class="col-md-12">
-          <strong>Taylor's Lakeside</strong><br>
-          Taylor's Business School <br> Divisional Office,Block E,L2
-        </div>
-      </div>
 
-      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline2">
-        <div class="col-md-12">
-          <img src="img/04_campuses_sunway logo.png" alt=""><hr>
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline2">
+          <div class="col-md-12">
+            <img src="img/04_campuses_sunway logo.png" alt=""><hr>
+          </div>
+          <div class="col-md-12 col-xs-push-2 col-sm-push-0">
+            <strong>Sunway</strong><br>
+            Coming soon
+          </div>
         </div>
-        <div class="col-md-12 col-xs-push-2 col-sm-push-0">
-          <strong>Sunway</strong><br>
-          Coming soon
-        </div>
-      </div>
 
-      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline3">
-        <div class="col-md-12">
-          <img src="img/04_campuses_monash logo.png" alt=""><hr>
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 vline vline3">
+          <div class="col-md-12">
+            <img src="img/04_campuses_monash logo.png" alt=""><hr>
+          </div>
+          <div class="col-md-12 col-xs-push-2 col-sm-push-0">
+            <strong>Monash</strong><br>
+            Coming soon
+          </div>
         </div>
-        <div class="col-md-12 col-xs-push-2 col-sm-push-0">
-          <strong>Monash</strong><br>
-          Coming soon
-        </div>
-      </div>
 
-      <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 hr1">
-        <div class="col-xs-pull-2  col-sm-pull-0 col-md-12 inti_logo">
-          <img src="img/04_campuses_inti logo.png" alt=""><hr>
-        </div>
-        <div class="col-md-12 col-xs-push-2 col-sm-push-0">
-          <strong>INTI Subang</strong><br>
-          Coming soon
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-2 col-md-3 col-md-push-0 hr1">
+          <div class="col-xs-pull-2  col-sm-pull-0 col-md-12 inti_logo">
+            <img src="img/04_campuses_inti logo.png" alt=""><hr>
+          </div>
+          <div class="col-md-12 col-xs-push-2 col-sm-push-0">
+            <strong>INTI Subang</strong><br>
+            Coming soon
+          </div>
         </div>
       </div>
     </div>
+
 
   </div>
 
@@ -292,32 +295,31 @@
 </div>
 
 <div class="stay_connected">
-  <div class="row">
-    <div class="col-md-8 col-md-offset-2 text-center connected_title">
-      <h1>Stay connected</h1>
-    </div>
-  </div>
-
-  <div class="row involve_logo">
-    <div class="col-md-8 col-md-offset-2">
-      <div class="col-sm-4 col-md-4 fb_icon ">
-        <a href="#"><img src="img/05_get involved_fb icon.png" alt=""></a>
-      </div>
-
-      <div class="col-sm-4 col-md-4 insta_icon">
-        <a href="#"><img src="img/05_get involved_insta icon.png" alt=""></a>
-      </div>
-
-      <div class="col-sm-4 col-md-4 email_icon">
-        <a href="#"><img src="img/05_get involved_email icon.png" alt=""></a>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center connected_title">
+        <h1>Stay connected</h1>
       </div>
     </div>
 
+    <div class="row involve_logo">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        <div class="col-xs-4 col-sm-4 col-md-4 fb_icon ">
+          <a href="#"><img src="img/05_get involved_fb icon.png" alt=""></a>
+        </div>
 
+        <div class="col-xs-4 col-sm-4 col-md-4 insta_icon">
+          <a href="#"><img src="img/05_get involved_insta icon.png" alt=""></a>
+        </div>
 
+        <div class="col-xs-4 col-sm-4 col-md-4 email_icon">
+          <a href="#"><img src="img/05_get involved_email icon.png" alt=""></a>
+        </div>
+      </div>
+    </div>
   </div>
+
 </div>
-
 </body>
 
 
