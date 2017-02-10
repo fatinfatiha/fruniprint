@@ -7,7 +7,7 @@
       <h1>Enquiry about sponsorship</h1>
     </div>
 
-    <div class="col-xs-12 col-md-12 col-md-offset-2 ">
+    <div class="col-xs-12 col-sm-12 col-sm-offset-2 col-md-12 col-md-offset-2 ">
       <div class="col-xs-12 col-md-8 col-md-offset-1 text-center">
         <form class="form-horizontal enquiry_content">
           <div class="form-group">
@@ -47,7 +47,7 @@
       </div>
 
 
-      <div class="col-md-8 col-md-push-3 ">
+      <div class="col-sm-8 col-sm-push-3 col-md-8 col-md-push-3 ">
         <div class="form-group">
           <div class="col-sm-offset-2 col-sm-10 btn_submit">
             <input type="submit" name="button2" value="SUBMIT" class="btn btn-default"></button>

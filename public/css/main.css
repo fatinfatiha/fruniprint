@@ -452,6 +452,10 @@ li.active a{
     font-size: 35px;
   }
 
+  .campus_content{
+    margin-top: -15px;
+  }
+
 
   .stud_foot{
     text-align: center;
@@ -515,6 +519,31 @@ li.active a{
   .connected_title h1{
     font-size: 30px;
   }
+
+  .join_content .form-control{
+    width: 100% !important;
+  }
+
+  .form_content .form-control{
+    width: 100% !important;
+  }
+
+  .invite_title h1{
+    font-size: 35px;
+  }
+
+  .join_title h4{
+    font-size: 15px;
+  }
+
+  .join_title h1{
+    font-size: 25px;
+  }
+
+  .about_fp h1{
+    font-size: 35px !important;
+  }
+
 
 }
 
@@ -714,7 +743,7 @@ li.active a{
     border: none;
     border-radius: 0px;
     margin-top: 50px;
-    width: 13%;
+    width: 30%;
 }
 
 .btn_join .btn-default:hover,.btn_join .btn-default:focus{
@@ -1186,7 +1215,8 @@ li.active a{
 @media only screen and (max-width: 768px){
 
   .frunilogo img{
-    width: 70%;
+    width: 45%;
+    margin-top: 10px;
   }
   .sponsor_text1 h1{
     font-size: 30px;
@@ -1306,9 +1336,29 @@ li.active a{
   .homesponsor{
     margin-top: -5%;
   }
+
+  .save_spot h3{
+    font-size: 17px;
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+
+  .vline2 hr{
+    margin-top: 12%;
+  }
+
+  .hr1 hr{
+    margin-top: 17%;
+  }
+
+  .email_icon p{
+    display: none;
+  }
+
+  .save_spot h3{
+    font-size: 17px;
+  }
 
 }
 

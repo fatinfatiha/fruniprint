@@ -7,7 +7,7 @@
       <h4>Passionate about enterpreneurship?Willing to work and get rewarded for it?</h4>
       <h4>You know what to do.(Hint:fill up the form below)</h4>
     </div>
-    <div class="col-md-12 col-md-offset-2 ">
+    <div class="col-sm-12 col-sm-offset-2 col-md-12 col-md-offset-2 ">
       <div class="col-md-8 col-md-offset-1 text-center">
         <form class="form-horizontal join_content">
           <div class="form-group">
@@ -47,7 +47,7 @@
       </div>
     </div>
 
-    <div class="col-md-10 col-md-push-3 ">
+    <div class="col-sm-10 col-sm-push-3 col-md-10 col-md-push-3 ">
       <div class="form-group">
         <div class="col-sm-offset-2 col-sm-10 btn_join">
           <a href="join-success"><input type="submit" name="button2" value="JOIN" class="btn btn-default"></button></a>
