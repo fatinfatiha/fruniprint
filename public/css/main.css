@@ -538,7 +538,7 @@ li.active a{
   }
 
   .join_title h1{
-    font-size: 25px;
+    font-size: 20px !important;
   }
 
   .about_fp h1{
@@ -756,7 +756,7 @@ li.active a{
     border: none;
     border-radius: 0px;
     margin-top: 50px;
-    width: 30%;
+    width: 40%;
 }
 
 .btn_join .btn-default:hover,.btn_join .btn-default:focus{
@@ -878,46 +878,19 @@ li.active a{
     font-size: 50px;
   }
 
-  .highly_target{
+  .value{
     margin-top: 20px;
   }
 
-  .highly_target h2{
+  .value h2{
     color: #0091ea;
     font-family: 'robotolight';
   }
 
-  .highly_target p{
+  .value p{
     font-family: 'robotomedium';
   }
 
-
-  .multiple_impression{
-    margin-top: 15px;
-  }
-
-  .multiple_impression h2{
-    color: #0091ea;
-    font-family: 'robotolight';
-  }
-
-  .multiple_impression p{
-    font-family: 'robotomedium';
-  }
-
-
-  .maximised_lifespan{
-    margin-top: 15px;
-  }
-
-  .maximised_lifespan h2{
-    color: #0091ea;
-    font-family: 'robotolight';
-  }
-
-  .maximised_lifespan p{
-    font-family: 'robotomedium';
-  }
 
   /*******************end of value of ads page*********************/
 
@@ -1353,6 +1326,11 @@ li.active a{
   .save_spot h3{
     font-size: 17px;
   }
+
+  .student_text h4{
+    font-size: 15px;
+  }
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){

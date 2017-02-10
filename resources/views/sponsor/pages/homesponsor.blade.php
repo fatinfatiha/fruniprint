@@ -102,12 +102,12 @@
 
 <div class="row">
   <div class="container">
-    <div class="row highly_target">
+    <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-1 col-md-6 col-md-push-1">
           <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
             <img src="img/21_ads value_icon 1.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-1 text-center">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
             <h2> Highly <br> targeted</h2>
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
@@ -116,12 +116,12 @@
         </div>
     </div>
 
-    <div class="row multiple_impression">
+    <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-1 col-md-6 col-md-push-1">
           <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
             <img src="img/21_ads value_icon 2.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-1 text-center">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
             <h2> Multiple <br> impressions</h2>
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
@@ -130,12 +130,12 @@
         </div>
     </div>
 
-    <div class="row maximised_lifespan">
+    <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-1 col-md-6 col-md-push-1">
           <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
             <img src="img/21_ads value_icon 3.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-1 text-center">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
             <h2> Maximised <br> lifespan </h2>
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
