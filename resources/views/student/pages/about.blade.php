@@ -34,7 +34,7 @@
           </div>
 
           <div class="col-sm-4 col-md-4">
-            <div class="col-xs-12 col-xs-push-2 col-sm-12 col-md-12">
+            <div class="col-xs-12 col-xs-push-2 col-sm-12 col-md-12 about_mission">
               <img src="img/30_about us_rocket.png" alt="">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 mission">

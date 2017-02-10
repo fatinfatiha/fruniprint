@@ -286,7 +286,7 @@
 
   <div class="row">
     <div class="col-md-8 col-md-offset-2 text-center involve_sentence">
-      Wanna join the journey? <br> Become our Campus Ambassador and get rewarded.
+      <p>Wanna join the journey? <br> Become our Campus Ambassador and get rewarded.</p>
     </div>
   </div>
   <div class="row">

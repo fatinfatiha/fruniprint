@@ -514,6 +514,7 @@ li.active a{
 
   .involve_title h1{
     font-size: 30px;
+    margin-top: -20px;
   }
 
   .connected_title h1{
@@ -542,6 +543,18 @@ li.active a{
 
   .about_fp h1{
     font-size: 35px !important;
+  }
+
+  .vision{
+    margin-top: -30px;
+  }
+
+  .about_mission{
+    margin-top: 25px;
+  }
+
+  .involve_sentence p{
+    margin-top: -22px;
   }
 
 
