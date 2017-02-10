@@ -178,6 +178,10 @@ li.active a{
   padding: 50px;
 }
 
+.campus{
+  margin-top: 5%;
+}
+
 .campus_title h1{
   font-family: 'robotolight';
   color: #0091ea;
@@ -243,7 +247,7 @@ li.active a{
 .involve_title h1{
   font-family: 'robotolight';
   color: white;
-  margin-top: 8%;
+  margin-top: 0%;
   font-size: -webkit-xxx-large;
 }
 
@@ -266,7 +270,7 @@ li.active a{
 
 .connected_title h1{
   font-family: 'robotolight';
-  margin-top: 5%;
+  margin-top: 0%;
   color: #0091ea;
 }
 
@@ -405,6 +409,13 @@ li.active a{
 /*******************end terms of use*********************/
 
 /*******************media query for home student********************/
+@media only screen and (max-width: 480px){
+  body{
+    width: 110%;
+  }
+
+}
+
 
 @media only screen and (max-width: 768px){
   .howtologo{
@@ -1349,6 +1360,10 @@ li.active a{
 
   .save_spot h3{
     font-size: 17px;
+  }
+
+  .featured_logo img{
+    width: 80px;
   }
 
 }

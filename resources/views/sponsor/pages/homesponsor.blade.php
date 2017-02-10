@@ -110,7 +110,7 @@
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
             <h2> Highly <br> targeted</h2>
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-12 col-sm-push-3 col-md-6 col-md-push-3">
             <p>100% of your advertisements go directly into students hands</p>
           </div>
         </div>
@@ -124,7 +124,7 @@
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
             <h2> Multiple <br> impressions</h2>
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-12 col-sm-push-3 col-md-6 col-md-push-3">
             <p>Students spend 14 hours on learning from print materials on average</p>
           </div>
         </div>
@@ -138,7 +138,7 @@
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
             <h2> Maximised <br> lifespan </h2>
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-12 col-sm-push-3 col-md-6 col-md-push-3">
             <p>Ads will kept for a semester attached to their study materials</p>
           </div>
         </div>
