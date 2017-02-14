@@ -576,6 +576,15 @@ li.active a{
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+
+  .value h2 {
+    font-size: 22px;
+  }
+
+  .value_ads img {
+    width: 80px;
+  }
+
   .form_content .form-control {
       background-color: transparent;
       border: none;
@@ -872,8 +881,9 @@ li.active a{
   margin-top: 5%;
 }
 
-
-
+.featured {
+  padding: 50px;
+}
 
  /*********************home page sponsor end******************/
 
@@ -884,7 +894,7 @@ li.active a{
    background-size: 100% 100%;
    height: auto;
    padding: 50px;
-   margin-top: 5%;
+   /*margin-top: 5%;*/
  }
 
   .value_title h1{
@@ -1234,7 +1244,7 @@ li.active a{
   }
 
   .control_ads{
-    height: 330px;
+    height: 250px;
   }
 
   .control_ads_title h1 {
@@ -1353,6 +1363,9 @@ li.active a{
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+  .container {
+    width: 700px !important;
+  }
 
   .vline2 hr{
     margin-top: 12%;
@@ -1371,7 +1384,7 @@ li.active a{
   }
 
   .featured_logo img{
-    width: 80px;
+    /*width: 80px;*/
   }
 
 }
