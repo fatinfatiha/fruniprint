@@ -214,7 +214,7 @@
   <div class="row">
     <div class="container campus">
       <div class="col-md-8 col-md-offset-2">
-        <div class="col-xs-12 col-xs-push-1 col-sm-6 col-md-3 col-md-push-0 vline vline1">
+        <div class="col-xs-12 col-xs-push-0 col-sm-6 col-md-3 col-md-push-0 vline vline1 taylor">
           <div class="col-md-12">
             <img src="img/04_campuses_taylors logo.png" alt=""><hr>
           </div>
@@ -224,31 +224,31 @@
           </div>
         </div>
 
-        <div class="col-xs-12 col-xs-push-1 col-sm-6 col-md-3 col-md-push-0 vline vline2">
-          <div class="col-md-12">
+        <div class="col-xs-12 col-xs-push-0 col-sm-6 col-md-3 col-md-push-0 vline vline2 sunway">
+          <div class="col-md-12 ">
             <img src="img/04_campuses_sunway logo.png" alt=""><hr>
           </div>
-          <div class="col-md-12 col-xs-push-2 col-sm-push-0 campus_content">
+          <div class="col-md-12 col-xs-push-0 col-sm-push-0 campus_content">
             <strong>Sunway</strong><br>
             Coming soon
           </div>
         </div>
 
-        <div class="col-xs-12 col-xs-push-1 col-sm-6 col-md-3 col-md-push-0 vline vline3">
+        <div class="col-xs-12 col-xs-push-0 col-sm-6 col-md-3 col-md-push-0 vline vline3 monash">
           <div class="col-md-12">
             <img src="img/04_campuses_monash logo.png" alt=""><hr>
           </div>
-          <div class="col-md-12 col-xs-push-2 col-sm-push-0 campus_content">
+          <div class="col-md-12 col-xs-push-0 col-sm-push-0 campus_content">
             <strong>Monash</strong><br>
             Coming soon
           </div>
         </div>
 
-        <div class="col-xs-12 col-xs-push-1 col-sm-6 col-md-3 col-md-push-0 hr1">
-          <div class="col-xs-pull-0  col-sm-pull-0 col-md-12 inti_logo">
+        <div class="col-xs-12 col-xs-push-0 col-sm-6 col-md-3 col-md-push-0 hr1 inti">
+          <div class="col-xs-push-1  col-sm-pull-0 col-md-12 inti_logo">
             <img src="img/04_campuses_inti logo.png" alt=""><hr>
           </div>
-          <div class="col-md-12 col-xs-push-2 col-sm-push-0 campus_content">
+          <div class="col-md-12 col-xs-push-0 col-sm-push-0 campus_content">
             <strong>INTI Subang</strong><br>
             Coming soon
           </div>
@@ -299,13 +299,13 @@
 <div class="stay_connected">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center connected_title">
+      <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 text-center connected_title">
         <h1>Stay connected</h1>
       </div>
     </div>
 
     <div class="row involve_logo">
-      <div class="col-xs-12 col-md-8 col-md-offset-2">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
         <div class="col-xs-4 col-sm-4 col-md-4 fb_icon ">
           <a href="#"><img src="img/05_get involved_fb icon.png" alt=""></a>
         </div>

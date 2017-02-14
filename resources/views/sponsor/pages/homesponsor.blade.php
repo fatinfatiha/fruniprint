@@ -53,12 +53,13 @@
     </div>
   </div>
 
-      <div class="col-xs-12 col-md-8 col-md-offset-2 text-center ">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 text-center ">
         <h2>Featured in</h2> <br>
       </div>
     <!-- </div> -->
 
-    <div class="row featured">
+    <div class="featured">
+      <div class="container">
 
         <div class="col-xs-12 col-sm-10 col-sm-offset-2 col-md-10 col-md-offset-2 col-lg-10 col-lg-offset-2">
 
@@ -90,6 +91,7 @@
         <a href="#value_page"><img src="img/20_sponsors home_arrow down.png" alt=""></a>
       </div>
       </div>
+      </div>
 <!-- ***********************end home sponsor************************ -->
 
 <div id="value_page" class="value_page">
@@ -100,7 +102,7 @@
       </div>
     </div>
 
-<div class="row">
+<div class="row value_ads">
   <div class="container">
     <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-1 col-md-6 col-md-push-1">
