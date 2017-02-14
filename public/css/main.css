@@ -568,6 +568,10 @@ li.active a{
     margin-top: -22px;
   }
 
+  .copyright_involve img{
+    margin-top: -10px;
+  }
+
 
 }
 
@@ -1243,6 +1247,10 @@ li.active a{
 
   .value_page{
     background-image:none;
+  }
+
+  .value_content{
+    text-align: center;
   }
 
   .highly_target p{
