@@ -139,7 +139,7 @@ li.active a{
 
 .regbtn{
   text-align: center;
-  margin-top: 7%;
+  margin-top: 3%;
 }
 
 /******************ads for you*******************/
@@ -148,7 +148,7 @@ li.active a{
   background-image: url('../img/03_ads for you_hero image background.jpg');
   background-size: 100% 100%;
   height: 600px;;
-  padding: 50px;
+  padding: 85px 50px;
 }
 
 .adslogo h1{
@@ -185,7 +185,7 @@ li.active a{
 .campus_title h1{
   font-family: 'robotolight';
   color: #0091ea;
-  margin-top: 6%;
+  /*margin-top: 2%;*/
   font-size: 52px;
 }
 
@@ -228,7 +228,7 @@ li.active a{
 .invite_sentence{
   font-family: 'robotolight';
   color: #0091ea;
-  margin-top: 10%;
+  margin-top: 4%;
 }
 .invitebtn{
   margin-top: 3%;
@@ -240,7 +240,7 @@ li.active a{
   background-image: url('../img/05_get involved_blue background.jpg');
   background-size: 100% 100%;
   height: auto;
-  padding: 50px;
+  padding: 80px;
 
 }
 
@@ -253,12 +253,12 @@ li.active a{
 
 .involve_sentence{
   font-family: 'robotoregular';
-  margin-top: 6%;
+  margin-top: 2%;
   color: white;
 }
 
 .joinbtn{
-  margin-top: 6%;
+  margin-top: 2%;
 }
 
 .stay_connected{
@@ -279,7 +279,7 @@ li.active a{
   margin-top: 5%;
   width: 80%;*/
   text-align: center;
-  margin-top: 5%;
+  margin-top: 3%;
 }
 
 /********************footer***********************/
