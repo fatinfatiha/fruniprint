@@ -409,15 +409,164 @@ li.active a{
 /*******************end terms of use*********************/
 
 /*******************media query for home student********************/
-@media only screen and (max-width: 480px){
-  body{
-    width: 110%;
+@media only screen and (max-width: 320px){
+  .howtologo{
+    text-align: center;
+  }
+
+  .card{
+    width: 45px;
+    border-radius: 5px;
+    margin-left: -15px;
+  }
+
+  .number h1{
+    font-size: 35px;
+  }
+
+  .print_content{
+    margin-top: 15%;
+  }
+
+  .printtitle h1{
+    font-size: 35px;
+  }
+
+  .ads_student{
+    height: auto;
+  }
+
+  .adslogo h1{
+    font-size: 35px;
+  }
+
+  .sentence1 h3{
+    font-size: 20px;
+  }
+
+  .sentence2 h3{
+    font-size: 20px;
+  }
+
+  .container.campus{
+    padding-left: 0px;
+  }
+  .campus_title h1{
+    font-size: 35px;
+  }
+
+  .campus_content{
+    margin-top: -15px;
+  }
+
+
+  .stud_foot{
+    text-align: center;
+  }
+
+
+  .vline {
+    border-right: none;
+  }
+  .vline1 hr {
+    border:none;
+  }
+
+  .vline2 hr {
+    border:none;
+  }
+
+  .vline3 hr {
+    border:none;
+  }
+
+  .hr1 hr {
+    border: none;
+  }
+
+  .progressbar img , .nav ul {
+    display: none;
+  }
+
+  .homestudent{
+    max-width: 100%;
+    margin-top: -6%;
+  }
+
+  .inti_logo img{
+    width: 180px;
+  }
+
+  .email_icon p {
+    color: transparent;
+  }
+
+  .form_content .form-control {
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid white;
+      box-shadow: none;
+      border-radius: 0px;
+      width: 100%;
+      height: auto;
+  }
+
+  .student_title h1{
+    font-size: 35px;
+  }
+
+  .involve_title h1{
+    font-size: 30px;
+    margin-top: -20px;
+  }
+
+  .connected_title h1{
+    font-size: 30px;
+  }
+
+  .join_content .form-control{
+    width: 100% !important;
+  }
+
+  .form_content .form-control{
+    width: 100% !important;
+  }
+
+  .invite_title h1{
+    font-size: 35px;
+  }
+
+  .join_title h4{
+    font-size: 15px;
+  }
+
+  .join_title h1{
+    font-size: 20px !important;
+  }
+
+  .about_fp h1{
+    font-size: 35px !important;
+  }
+
+  .vision{
+    margin-top: -30px;
+  }
+
+  .about_mission{
+    margin-top: 25px;
+  }
+
+  .involve_sentence p{
+    margin-top: -22px;
+  }
+
+  .copyright_involve img{
+    margin-top: -10px;
   }
 
 }
 
-
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 480px){
   .howtologo{
     text-align: center;
   }
@@ -575,6 +724,7 @@ li.active a{
 
 }
 
+
 @media only screen and (min-width: 768px) and (max-width: 992px){
   .form_content .form-control {
       background-color: transparent;
@@ -587,40 +737,56 @@ li.active a{
   }
 
 
- .img_register{
-   margin-top: 25px;
- }
+   .img_register{
+     margin-top: 25px;
+   }
 
- .img_login{
-    margin-top: 25px;
- }
+   .img_login{
+      margin-top: 25px;
+   }
 
- .img_upload{
-   margin-top: 25px;
- }
+   .img_upload{
+     margin-top: 25px;
+   }
 
- .img_print{
-   margin-top: 25px;
- }
+   .img_print{
+     margin-top: 25px;
+   }
 
- .img_collect{
-   margin-top: 25px;
- }
+   .img_collect{
+     margin-top: 25px;
+   }
 
 
-.vline {
-  border-right: none;
-}
+  .vline {
+    border-right: none;
+  }
 
-.homestudent{
-  background-image:url('../img/home1.png');
-  background-size: 100% 100%;
-  height: auto;
-  margin-top: -12%;
-  padding: 50px;
-  background-repeat: no-repeat;
-  max-width: 102%;
-}
+  .homestudent{
+    background-image:url('../img/home1.png');
+    background-size: 100% 100%;
+    height: auto;
+    margin-top: -12%;
+    padding: 50px;
+    background-repeat: no-repeat;
+    max-width: 102%;
+  }
+
+  .container.campus{
+    width: 730px;
+  }
+
+  .stay_connected .container{
+    width: 720px;
+  }
+
+  .stud_foot .container{
+    width: 720px;
+  }
+
+  .homestudent .container{
+    width: 720px;
+  }
 
 }
 
@@ -1213,7 +1379,144 @@ li.active a{
 /*********************end of successfully enquiry**********************/
 /*********************media query for sponsor page*********************/
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 320px){
+  .frunilogo img{
+    width: 45%;
+    margin-top: 10px;
+  }
+  .sponsor_text1 h1{
+    font-size: 30px;
+  }
+  .sponsor_text2 h3{
+    font-size: 20px;
+  }
+  .sponsor_text3 h4{
+    font-size: 15px;
+  }
+
+  .value_title h1{
+    font-size: 30px;
+  }
+
+  .control_ads{
+    height: 330px;
+  }
+
+  .control_ads_title h1 {
+    font-size: 30px;
+  }
+
+  .control_ads_text h3{
+    font-size: 19px;
+  }
+
+  .value_page{
+    background-image:none;
+  }
+
+  .value_content{
+    text-align: center;
+  }
+
+  .highly_target p{
+    text-align: -webkit-center;
+  }
+
+  .multiple_impression p{
+    text-align: -webkit-center;
+  }
+
+  .maximised_lifespan p{
+    text-align: -webkit-center;
+  }
+
+  .row.featured{
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .featured_logo{
+    margin-top: 10%;
+  }
+
+  .img_control_ads img{
+    display: none;
+  }
+  .student_title h1{
+    font-size: 30px;
+  }
+
+  .trustedby_title h1{
+    font-size: 30px;
+  }
+
+  .trusted_border{
+    height: 110px;
+    border-style: none;
+    border-width: none;
+  }
+
+  .t-border1{
+    height: 110px;
+    border-style: none;
+    border-width: none;
+  }
+
+  .trusted_border2{
+    height: 130px;
+    border-style: none;
+    border-width: none;
+  }
+
+  .t-border2{
+    height: 130px;
+    border-style: none;
+    border-width: none;
+  }
+
+  .trusted_border3{
+    height: 130px;
+    border-style: none;
+    border-width: none;
+  }
+
+  .t-border3{
+    height: 130px;
+    border-style: none;
+    border-width: none;
+  }
+
+  .trusted_border4{
+    height: 130px;
+    border-style: none;
+    border-width: none;
+  }
+
+
+  .enquiry_content .form-control {
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid white;
+      box-shadow: none;
+      border-radius: 0px;
+       width: 100%;
+      height: auto;
+    }
+
+    .homesponsor{
+      margin-top: -5%;
+    }
+
+    .save_spot h3{
+      font-size: 17px;
+    }
+
+    .student_text h4{
+      font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 480px){
 
   .frunilogo img{
     width: 45%;
@@ -1328,27 +1631,27 @@ li.active a{
   }
 
 
-.enquiry_content .form-control {
-    background-color: transparent;
-    border: none;
-    border-bottom: 1px solid white;
-    box-shadow: none;
-    border-radius: 0px;
-     width: 100%;
-    height: auto;
-  }
+  .enquiry_content .form-control {
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid white;
+      box-shadow: none;
+      border-radius: 0px;
+       width: 100%;
+      height: auto;
+    }
 
-  .homesponsor{
-    margin-top: -5%;
-  }
+    .homesponsor{
+      margin-top: -5%;
+    }
 
-  .save_spot h3{
-    font-size: 17px;
-  }
+    .save_spot h3{
+      font-size: 17px;
+    }
 
-  .student_text h4{
-    font-size: 15px;
-  }
+    .student_text h4{
+      font-size: 15px;
+    }
 
 }
 
@@ -1372,6 +1675,18 @@ li.active a{
 
   .featured_logo img{
     width: 80px;
+  }
+
+  .value_ads .container{
+    width: 730px;
+  }
+
+  .control_ads .container{
+    width: 730px;
+  }
+
+  .trusted_by .container{
+    width: 730px;
   }
 
 }
