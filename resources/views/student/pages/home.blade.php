@@ -25,7 +25,7 @@
 
 
       <div class="container">
-      <div class="col-sm-12 col-md-8 col-md-offset-2 livecounter">
+      <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 livecounter">
         <h2>Sponsored printing given this month</h2>
       </div>
       <!-- <div class="col-md-12"> -->
