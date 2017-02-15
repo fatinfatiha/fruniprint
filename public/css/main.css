@@ -1708,44 +1708,37 @@ li.active a{
 
   .trusted_border{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
   .t-border1{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 1px 0px;
   }
 
   .trusted_border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
   .t-border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 1px 0px ;
   }
 
   .trusted_border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
   .t-border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 1px 0px;
   }
 
   .trusted_border4{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
 
