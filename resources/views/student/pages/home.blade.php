@@ -297,7 +297,7 @@
 </div>
 
 <div class="stay_connected">
-  <div class="container">
+
     <div class="row">
       <div class="col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3 text-center connected_title">
         <h1>Stay connected</h1>
@@ -305,6 +305,7 @@
     </div>
 
     <div class="row involve_logo">
+      <div class="container">
       <div class="col-xs-12 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3">
         <div class="col-xs-4 col-sm-4 col-md-4 col-md-push-1 fb_icon ">
           <a href="#"><img src="img/05_get involved_fb icon.png" alt=""></a>
