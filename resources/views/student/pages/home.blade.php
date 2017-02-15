@@ -111,8 +111,8 @@
   </div>
 
   <div class="row howtologo">
-    <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-push-2 col-lg-8 col-lg-push-2 text-left">
-      <div class="col-sm-12 col-md-2 ">
+    <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-push-2 col-lg-8 col-lg-push-2 text-left">
+      <div class="col-xs-12 col-sm-12 col-md-2 print_content1 ">
         <div class="col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_register">
           <img src="img/02_how to print_register icon.png" alt=""><br>
         </div>
@@ -122,7 +122,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2 print_content">
+      <div class="col-xs-12 col-sm-12 col-md-2 print_content">
         <div class="col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_login">
           <img src="img/02_how to print_login icon.png" alt="">
         </div>
@@ -132,7 +132,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2 print_content">
+      <div class="col-xs-12 col-sm-12 col-md-2 print_content">
         <div class="col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_upload ">
           <img src="img/02_how to print_upload icon.png" alt="">
         </div>
@@ -142,7 +142,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2 print_content">
+      <div class="col-xs-12 col-sm-12 col-md-2 print_content">
         <div class="col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_print">
           <img src="img/02_how to print_print icon.png" alt="">
         </div>
@@ -152,7 +152,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-md-2 col-md-offset-0 print_content">
+      <div class="col-xs-12 col-sm-12 col-md-2 col-md-offset-0 print_content">
         <div class="col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_collect">
             <img src="img/02_how to print_collect icon.png" alt="">
         </div>

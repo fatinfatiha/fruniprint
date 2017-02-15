@@ -428,8 +428,13 @@ li.active a{
     font-size: 35px;
   }
 
+  .print_content1{
+    text-align: center;
+  }
+
   .print_content{
     margin-top: 15%;
+    text-align: center;
   }
 
   .printtitle h1{
@@ -585,8 +590,13 @@ li.active a{
     font-size: 35px;
   }
 
+  .print_content1{
+    text-align: center;
+  }
+
   .print_content{
     margin-top: 15%;
+    text-align: center;
   }
 
   .printtitle h1{
