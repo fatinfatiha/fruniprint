@@ -714,7 +714,7 @@ li.active a{
   }
 
   .involve_sentence p{
-    margin-top: -22px;
+    /*margin-top: -22px;*/
   }
 
   .copyright_involve img{
@@ -1530,6 +1530,10 @@ li.active a{
 }
 
 @media only screen and (max-width: 480px){
+
+  .regbtn {
+    margin-top: 12%;
+  }
 
   .frunilogo img{
     width: 45%;
