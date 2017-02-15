@@ -104,7 +104,7 @@ li.active a{
 
 .loginbtn img{
 
-  margin-top: 18%;
+  margin-top: 10%;
 
 }
 
@@ -132,7 +132,7 @@ li.active a{
 }
 
 .howtologo{
-  margin-top: 55px;
+  margin-top: 30px;
   font-family: 'robotolight';
   color: white;
 }
@@ -730,6 +730,15 @@ li.active a{
 
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+
+  .value h2 {
+    font-size: 22px;
+  }
+
+  .value_ads img {
+    width: 80px;
+  }
+
   .form_content .form-control {
       background-color: transparent;
       border: none;
@@ -1042,9 +1051,13 @@ li.active a{
   margin-top: 5%;
 }
 
+.featured {
+  padding: 50px;
+}
 
-
-
+.featured-in {
+  padding: 50px 50px 0px 50px;
+}
  /*********************home page sponsor end******************/
 
  /**********************value of ads************************/
@@ -1054,7 +1067,7 @@ li.active a{
    background-size: 100% 100%;
    height: auto;
    padding: 50px;
-   margin-top: 5%;
+   /*margin-top: 5%;*/
  }
 
   .value_title h1{
@@ -1084,8 +1097,8 @@ li.active a{
   .control_ads{
     background-image:url('../img/02_how to print_blue gradient background.jpg');
     background-size: 100% 100%;
-    height: 751px;;
-    padding: 50px;
+    /*height: 751px;*/
+    padding: 50px 50px 5px 50px;
   }
 
   .control_ads_title h1{
@@ -1403,7 +1416,7 @@ li.active a{
   }
 
   .control_ads{
-    height: 330px;
+    height: 250px;
   }
 
   .control_ads_title h1 {
@@ -1664,6 +1677,9 @@ li.active a{
     width: 70%;
     margin-top: 10px;
   }
+  .container {
+    width: 700px !important;
+  }
 
   /*.navbar-right li{
     margin-top: -40px;
@@ -1685,7 +1701,8 @@ li.active a{
   }
 
   .featured_logo img{
-    width: 80px;
+    /*width: 80px;*/
+    margin-top: 40px;
   }
 
   .value_ads .container{
@@ -1699,12 +1716,18 @@ li.active a{
   .trusted_by .container{
     width: 730px;
   }
-
   .control_ads{
     height: auto;
     padding: 50px 50px 4px 50px;
   }
 
+  .control_ads_title h1, .trustedby_title h1, .student_title h1, .value_title h1, .featured-in h1 {
+    font-size: 40px;
+  }
+
+  .trustedby_title h1 {
+    margin-bottom: 50px;
+  }
 }
 
 /***********************under construction page***************************/
