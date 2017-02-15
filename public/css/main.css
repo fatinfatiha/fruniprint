@@ -1156,6 +1156,9 @@ li.active a{
   }
 
   /***************end of control your ads page*****************/
+.trusted_by img {
+  width: 100px;
+}
 
 .trusted_by{
   background-image:url('../img/04_campuses_light grey background.jpg');
@@ -1438,6 +1441,26 @@ li.active a{
   body{
     width: calc(100% + 4em)
   }
+
+  .vline {
+    height: auto;
+    margin-bottom: 25px;
+  }
+
+  .featured_logo img {
+    margin-top: 40px;
+    width: 100px;
+  }
+
+  .featured {
+    padding: 50px 50px 0px 50px;
+  }
+
+  .featured_in {
+    margin-top: -20px;
+    margin-bottom: 50px;
+  }
+
   .frunilogo img{
     width: 45%;
     margin-top: 10px;
@@ -1629,7 +1652,8 @@ li.active a{
   }
 
   .control_ads_text h3{
-    font-size: 19px;
+    font-size: 17px;
+    line-height: 22px;
   }
 
   .value_page{
@@ -1657,8 +1681,18 @@ li.active a{
     margin-left: 0px;
   }
 
-  .featured_logo{
-    margin-top: 10%;
+  .featured_logo img {
+    margin-top: 40px;
+    width: 100px;
+  }
+
+  .featured_in {
+    margin-top: -20px;
+    margin-bottom: 50px;
+  }
+
+  .featured {
+    padding: 50px 50px 0px 50px;
   }
 
   .img_control_ads img{
