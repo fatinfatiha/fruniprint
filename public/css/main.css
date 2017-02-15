@@ -577,7 +577,7 @@ li.active a{
   }
 
   .involve_sentence p{
-    margin-top: -22px;
+    margin-top: 0px;
   }
 
   .copyright_involve img{
@@ -1457,15 +1457,17 @@ li.active a{
   }
 
   .control_ads{
-    height: 250px;
+    height: auto;
   }
 
   .control_ads_title h1 {
     font-size: 30px;
+    margin-top: 0px;
   }
 
   .control_ads_text h3{
-    font-size: 19px;
+    font-size: 15px;
+    line-height: normal;
   }
 
   .value_page{
@@ -1478,6 +1480,11 @@ li.active a{
 
   .value_ads_logo img{
     margin-left: -15px;
+  }
+
+  .value {
+    margin-top: 0px;
+    padding: 40px 40px 0px 40px;
   }
 
   .highly_target p{
@@ -1518,44 +1525,37 @@ li.active a{
 
   .trusted_border{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
   .t-border1{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 1px 0px;
   }
 
   .trusted_border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
   .t-border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 1px 0px ;
   }
 
   .trusted_border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
   .t-border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 1px 0px;
   }
 
   .trusted_border4{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 1px 1px 0px;
   }
 
 
