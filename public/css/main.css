@@ -12,7 +12,6 @@
   font-size: 55px;
 }
 
-
 @font-face{
     font-family: 'robotomedium';
     src: url('../fonts/Roboto-Medium.ttf');
@@ -265,7 +264,7 @@ li.active a{
   background-image: url('../img/05_get involved_light grey background.jpg');
   background-size: 100% 100%;
   height: auto;
-  padding: 50px;
+  padding: 80px;
 }
 
 .connected_title h1{
@@ -576,6 +575,15 @@ li.active a{
 }
 
 @media only screen and (max-width: 480px){
+  .involve_logo img{
+    width: 50px;
+  }
+
+  .fruni_spots {
+    border-bottom-style: ridge;
+    width: 150px !important;
+  }
+
   .howtologo{
     text-align: center;
   }
@@ -728,7 +736,7 @@ li.active a{
   }
 
   .involve_sentence p{
-    margin-top: -22px;
+    /*margin-top: -22px;*/
   }
 
   .copyright_involve img{
@@ -740,6 +748,13 @@ li.active a{
 
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+  .navbar {
+    margin-bottom: 15px !important;
+  }
+
+  .navbar-header {
+    width: 235px;
+  }
 
   .value h2 {
     font-size: 22px;
@@ -1545,6 +1560,10 @@ li.active a{
 
 @media only screen and (max-width: 480px){
 
+  .regbtn {
+    margin-top: 12%;
+  }
+
   .frunilogo img{
     width: 45%;
     margin-top: 10px;
@@ -1688,7 +1707,7 @@ li.active a{
     margin-top: 10px;
   }
   .container {
-    width: 700px !important;
+    width: 650px !important;
   }
 
   /*.navbar-right li{
