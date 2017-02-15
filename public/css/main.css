@@ -413,6 +413,16 @@ li.active a{
     text-align: center;
   }
 
+  .howto_content{
+    margin-top: -20px;
+  }
+  .print_content img{
+    width: 90px;
+  }
+  .print_content1 img{
+    width: 90px;
+  }
+
   .card{
     width: 45px;
     border-radius: 5px;
@@ -1460,6 +1470,10 @@ li.active a{
     text-align: center;
   }
 
+  .value_ads_logo img{
+    margin-left: -15px;
+  }
+
   .highly_target p{
     text-align: -webkit-center;
   }
@@ -1479,6 +1493,10 @@ li.active a{
 
   .featured_logo{
     margin-top: 10%;
+  }
+
+  .featured_logo img{
+    width: 70px;
   }
 
   .img_control_ads img{
@@ -1555,6 +1573,9 @@ li.active a{
 
     .student_text h4{
       font-size: 15px;
+    }
+    .arrow {
+    margin-top: 15%;
     }
 }
 

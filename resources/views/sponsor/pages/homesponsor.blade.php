@@ -106,7 +106,7 @@
   <div class="container">
     <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-2 col-md-6 col-md-push-1">
-          <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
+          <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3 value_ads_logo">
             <img src="img/21_ads value_icon 1.png" alt="">
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
@@ -120,7 +120,7 @@
 
     <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-2 col-md-6 col-md-push-1">
-          <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
+          <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3 value_ads_logo">
             <img src="img/21_ads value_icon 2.png" alt="">
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
@@ -134,7 +134,7 @@
 
     <div class="row value">
         <div class="col-xs-10 col-xs-push-3 col-sm-6 col-sm-push-2 col-md-6 col-md-push-1">
-          <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3">
+          <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3 value_ads_logo">
             <img src="img/21_ads value_icon 3.png" alt="">
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
