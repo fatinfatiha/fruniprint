@@ -26,21 +26,21 @@
 
 
     <div class="row">
-      <div class="col-md-7 col-md-offset-3 sponsor_text1">
+      <div class="col-md-7 col-md-offset-3 col-sm-6 col-sm-offset-4 sponsor_text1">
         <h1>Powering advertising <br>
         that powers youth</h1>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 col-md-offset-3 sponsor_text2">
+      <div class="col-md-7 col-md-offset-3 col-sm-6 col-sm-offset-4 sponsor_text2">
         <h3>Advertise to Malaysian students <br>
         by sponsoring their printing</h3>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-7 col-md-offset-3 sponsor_text3">
+      <div class="col-md-7 col-md-offset-3 col-sm-6 col-sm-offset-4 sponsor_text3">
        <h4>Your advertisements are placed directly <br>
         at the back of study materials</h4>
       </div>
@@ -53,7 +53,7 @@
     </div>
   </div>
 
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 text-center ">
+      <div class="featured-in col-xs-12 col-sm-12 col-md-8 col-md-offset-2 text-center ">
         <h2>Featured in</h2> <br>
       </div>
     <!-- </div> -->
@@ -61,25 +61,25 @@
     <div class="featured">
       <div class="container">
 
-        <div class="col-xs-12 col-sm-10 col-sm-offset-2 col-md-10 col-md-offset-2 col-lg-10 col-lg-offset-2">
+        <div class="col-xs-12 col-sm-10 col-sm-push-1 col-md-10 col-md-offset-2 col-md-push-0 col-lg-10 col-lg-offset-2">
 
           <div class="text-center">
 
 
-          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
             <img src="img/20_sponsors home_the star.png" alt="">
           </div>
-          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
             <img src="img/20_sponsors home_vulcan post.png" alt="">
           </div>
 
-          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
             <img src="img/20_sponsors home_bfm.png" alt="">
           </div>
-          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-6 col-md-2 featured_logo">
             <img src="img/20_sponsors home_malaymail.png" alt="">
           </div>
-          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-6 col-md-2 featured_logo">
             <img src="img/20_sponsors home_dna.png" alt="">
           </div>
           </div>
