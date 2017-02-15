@@ -60,12 +60,8 @@
 
     <div class="featured">
       <div class="container">
-
-        <div class="col-xs-12 col-sm-10 col-sm-push-1 col-md-10 col-md-offset-2 col-md-push-0 col-lg-10 col-lg-offset-2">
-
+        <div class="featured_in col-xs-12 col-sm-10 col-sm-push-1 col-md-10 col-md-offset-2 col-md-push-0 col-lg-10 col-lg-offset-2">
           <div class="text-center">
-
-
           <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
             <img src="img/20_sponsors home_the star.png" alt="">
           </div>
