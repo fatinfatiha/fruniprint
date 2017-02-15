@@ -185,7 +185,7 @@
       </div>
 
       <div class="row img_line1 text-center">
-        <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <div class="col-xs-6 col-sm-3 col-md-3 trusted_border">
             <div class="col-sm-12 col-md-12 vertical_line1">
               <img src="img/trusted_logo/komugi.png" class="img-responsive" alt="">
@@ -213,7 +213,7 @@
 
 
       <div class="row img_line2 text-center">
-        <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <div class="col-xs-6 col-sm-3 col-md-3 trusted_border2">
             <div class="col-sm-12 col-md-12">
               <img src="img/trusted_logo/stoned n co.png" class="img-responsive" alt="">
@@ -240,7 +240,7 @@
 
 
       <div class="row img_line3 text-center">
-        <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <div class="col-xs-6 col-sm-3 col-md-3 trusted_border3">
             <div class="col-sm-12 col-md-12 morgan">
               <img src="img/trusted_logo/morganfields.png" class="img-responsive" alt="">
@@ -267,7 +267,7 @@
 
 
       <div class="row img_line4 text-center">
-        <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <div class="col-xs-6 col-sm-3 col-md-3 trusted_border4">
             <div class="col-sm-12 col-md-12 runway">
               <img src="img/trusted_logo/runway productions.png" class="img-responsive" alt="">

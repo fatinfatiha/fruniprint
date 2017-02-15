@@ -113,53 +113,53 @@
   <div class="row howtologo">
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-push-2 col-lg-10 col-lg-push-1 text-left">
       <div class="col-xs-12 col-sm-12 col-md-2 print_content1 ">
-        <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_register">
+        <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_register">
           <img src="img/02_how to print_register icon.png" alt=""><br>
         </div>
-        <div class="col-xs-6 col-md-12 col-md-push-2 col-sm-6">
+        <div class="col-xs-12 col-md-10 col-md-push-2 col-sm-6">
           <h3>Register</h3>
-          <p>for one whole <br> year of sponsored <br> printing</p>
+          <p>for one whole year of sponsored printing</p>
         </div>
       </div>
 
       <div class="col-xs-12 col-sm-12 col-md-2 print_content">
-        <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_login">
+        <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_login">
           <img src="img/02_how to print_login icon.png" alt="">
         </div>
-        <div class="col-xs-6 col-md-12 col-md-push-2 col-sm-6">
+        <div class="col-xs-12 col-md-10 col-md-push-2 col-sm-6">
           <h3>Login</h3>
-          <p>to your personal <br> secured account <br> on the website </p>
+          <p>to your personal secured account on the website </p>
         </div>
       </div>
 
       <div class="col-xs-12 col-sm-12 col-md-2 print_content">
-        <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_upload ">
+        <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_upload ">
           <img src="img/02_how to print_upload icon.png" alt="">
         </div>
-        <div class="col-xs-6 col-md-12 col-md-push-2 col-sm-6">
+        <div class="col-xs-12 col-md-10 col-md-push-2 col-sm-6">
           <h3>Upload</h3>
-          <p>your study <br> materials anytime <br> from any device</p>
+          <p>your study materials anytime from any device</p>
         </div>
       </div>
 
       <div class="col-xs-12 col-sm-12 col-md-2 print_content">
-        <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_print">
+        <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_print">
           <img src="img/02_how to print_print icon.png" alt="">
         </div>
-        <div class="col-xs-6 col-md-12 col-md-push-2 col-sm-6">
+        <div class="col-xs-12 col-md-10 col-md-push-2 col-sm-6">
           <h3>Print</h3>
-          <p>at the nearest <br> FRUNI SPOT <br> in your campus</p>
+          <p>at the nearest FRUNI SPOT in your campus</p>
         </div>
       </div>
 
       <div class="col-xs-12 col-sm-12 col-md-2 col-md-offset-0 print_content">
 
-        <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_collect">
+        <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_collect">
             <img src="img/02_how to print_collect icon.png" alt="">
         </div>
-        <div class="col-xs-6 col-md-12 col-md-push-2 col-sm-6">
+        <div class="col-xs-12 col-md-10 col-md-push-2 col-sm-6">
           <h3>Collect</h3>
-          <p>your documents <br> and have an <br> awesome day</p>
+          <p>your documents and have an awesome day</p>
         </div>
       </div>
     </div>
@@ -213,7 +213,7 @@
 
   <div class="row">
     <div class="container campus">
-      <div class="col-xs-12 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+      <div class="col-xs-12 col-xs-pull-1 col-md-8 col-md-offset-2 col-md-pull-0 col-sm-8 col-sm-offset-2 col-sm-pull-0">
         <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-0 col-sm-pull-1 col-md-3 col-md-push-0 vline vline1">
           <div class="col-md-12 col-sm-6 col-xs-12 col-xs-push-2">
             <img src="img/04_campuses_taylors logo.png" alt="" width="120px" ><hr>

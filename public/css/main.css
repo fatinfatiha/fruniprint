@@ -1135,6 +1135,7 @@ li.active a{
   .control_ads_text h3{
     color: yellow;
     font-family: 'robotolight';
+    line-height: 30px;
   }
 
   .img_control_ads img{
@@ -1273,7 +1274,7 @@ li.active a{
 .student_title h1{
   font-family: 'robotolight';
   color: white;
-  font-size: 60px;
+  font-size: 50px;
 }
 
 .student_text h4{
@@ -1422,6 +1423,9 @@ li.active a{
 /*********************media query for sponsor page*********************/
 
 @media only screen and (max-width: 320px){
+  body{
+    width: calc(100% + 4em)
+  }
   .frunilogo img{
     width: 45%;
     margin-top: 10px;
@@ -1558,8 +1562,19 @@ li.active a{
     }
 }
 
-@media only screen and (max-width: 480px){
+@media only screen and (min-width: 321px) and (max-width: 480px){
+  .card {
+    border-radius: 3px;
+  }
 
+  .campus_title h1 {
+    margin-bottom: 35px;
+  }
+
+  .vline {
+    height: auto;
+    margin-bottom: 25px;
+  }
   .regbtn {
     margin-top: 12%;
   }
