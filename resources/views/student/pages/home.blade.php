@@ -112,7 +112,7 @@
 
   <div class="row howtologo">
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-push-2 col-lg-8 col-lg-push-2 text-left">
-      <div class="col-sm-12 col-md-2 col-xs-12">
+      <div class="col-xs-12 col-sm-12 col-md-2 print_content1 ">
         <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_register">
           <img src="img/02_how to print_register icon.png" alt=""><br>
         </div>
@@ -153,6 +153,7 @@
       </div>
 
       <div class="col-xs-12 col-sm-12 col-md-2 col-md-offset-0 print_content">
+
         <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_collect">
             <img src="img/02_how to print_collect icon.png" alt="">
         </div>

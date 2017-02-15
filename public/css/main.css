@@ -420,12 +420,21 @@ li.active a{
     margin-left: -15px;
   }
 
+  .involve_logo img{
+    width: 50px;
+  }
+
   .number h1{
     font-size: 35px;
   }
 
+  .print_content1{
+    text-align: center;
+  }
+
   .print_content{
     margin-top: 15%;
+    text-align: center;
   }
 
   .printtitle h1{
@@ -567,6 +576,10 @@ li.active a{
 }
 
 @media only screen and (max-width: 480px){
+  .involve_logo img{
+    width: 50px;
+  }
+
   .howtologo{
     text-align: center;
   }
@@ -581,8 +594,13 @@ li.active a{
     font-size: 35px;
   }
 
+  .print_content1{
+    text-align: center;
+  }
+
   .print_content{
     margin-top: 15%;
+    text-align: center;
   }
 
   .printtitle h1{
@@ -1673,10 +1691,17 @@ li.active a{
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px){
+  .frunilogo img{
+    width: 70%;
+    margin-top: 10px;
+  }
   .container {
     width: 700px !important;
   }
 
+  /*.navbar-right li{
+    margin-top: -40px;
+  }*/
   .vline2 hr{
     margin-top: 12%;
   }
@@ -1708,6 +1733,10 @@ li.active a{
 
   .trusted_by .container{
     width: 730px;
+  }
+  .control_ads{
+    height: auto;
+    padding: 50px 50px 4px 50px;
   }
 
   .control_ads_title h1, .trustedby_title h1, .student_title h1, .value_title h1, .featured-in h1 {
