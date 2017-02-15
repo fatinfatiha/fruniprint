@@ -111,7 +111,7 @@
   </div>
 
   <div class="row howtologo">
-    <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-push-2 col-lg-8 col-lg-push-2 text-left">
+    <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-push-2 col-lg-10 col-lg-push-1 text-left">
       <div class="col-xs-12 col-sm-12 col-md-2 print_content1 ">
         <div class="col-xs-6 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_register">
           <img src="img/02_how to print_register icon.png" alt=""><br>
@@ -214,41 +214,41 @@
   <div class="row">
     <div class="container campus">
       <div class="col-xs-12 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-md-3 col-md-push-0 vline vline1">
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-0 col-sm-pull-1 col-md-3 col-md-push-0 vline vline1">
           <div class="col-md-12 col-sm-6 col-xs-12 col-xs-push-2">
             <img src="img/04_campuses_taylors logo.png" alt="" width="120px" ><hr>
           </div>
-          <div class="col-md-12 col-sm-6 col-sm-pull-1 col-xs-12 col-xs-push-2">
+          <div class="col-md-12 col-md-push-1 col-sm-6 col-sm-pull-1 col-xs-12 col-xs-push-2 fruni_spots">
             <strong>Taylor's Lakeside</strong><br>
             Taylor's Business School <br> Divisional Office,Block E,L2
           </div>
         </div>
 
-        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-md-3 col-md-push-0 vline vline2">
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-0 col-sm-pull-1 col-md-3 col-md-push-0 vline vline2">
           <div class="col-md-12 col-sm-6 col-xs-12 col-xs-push-2">
             <img src="img/04_campuses_sunway logo.png" alt="" width="120px"><hr>
           </div>
-          <div class="col-md-12 col-xs-12 col-xs-push-2 col-sm-push-0 col-sm-6 col-sm-pull-1 campus_content">
+          <div class="col-md-12 col-md-push-1 col-xs-12 col-xs-push-2 col-sm-push-2 col-sm-6 col-sm-pull-1 campus_content fruni_spots">
             <strong>Sunway</strong><br>
             Coming soon
           </div>
         </div>
 
-        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-md-3 col-md-push-0 vline vline3">
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-0 col-sm-pull-1 col-md-3 col-md-push-0 vline vline3">
           <div class="col-md-12 col-sm-6 col-xs-12 col-xs-push-2">
             <img src="img/04_campuses_monash logo.png" alt="" width="120px"><hr>
           </div>
-          <div class="col-md-12 col-xs-12 col-xs-push-2 col-sm-push-0 col-sm-6 col-sm-pull-1 campus_content">
+          <div class="col-md-12 col-md-push-1 col-xs-12 col-xs-push-2 col-sm-push-2 col-sm-6 col-sm-pull-1 campus_content fruni_spots">
             <strong>Monash</strong><br>
             Coming soon
           </div>
         </div>
 
-        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-md-3 col-md-push-0 hr1">
+        <div class="col-xs-12 col-xs-push-1 col-sm-12 col-sm-push-0 col-sm-pull-1 col-md-3 col-md-push-0 hr1">
           <div class="col-xs-12 col-xs-push-2 col-sm-pull-0 col-md-12 col-sm-6 inti_logo">
-            <img src="img/04_campuses_inti logo.png" alt="" width="120px"><hr>
+            <img src="img/04_campuses_inti logo.png" alt="" width="150px"><hr>
           </div>
-          <div class="col-md-12 col-xs-12 col-xs-push-2 col-sm-push-0 col-sm-6 col-sm-pull-1 campus_content">
+          <div class="col-md-12 col-md-push-1 col-xs-12 col-xs-push-2 col-sm-push-2 col-sm-6 col-sm-pull-1 campus_content fruni_spots">
             <strong>INTI Subang</strong><br>
             Coming soon
           </div>
