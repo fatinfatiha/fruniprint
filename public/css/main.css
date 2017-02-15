@@ -409,6 +409,7 @@ li.active a{
 
 /*******************media query for home student********************/
 @media only screen and (max-width: 320px){
+
   .howtologo{
     text-align: center;
   }
@@ -587,6 +588,11 @@ li.active a{
 }
 
 @media only screen and (max-width: 480px){
+
+  .control_ads {
+    padding: 50px !important;
+  }
+
   .involve_logo img{
     width: 50px;
   }
@@ -754,8 +760,6 @@ li.active a{
   .copyright_involve img{
     margin-top: -10px;
   }
-
-
 }
 
 
@@ -1156,6 +1160,9 @@ li.active a{
   }
 
   /***************end of control your ads page*****************/
+.trusted_by img {
+  width: 100px;
+}
 
 .trusted_by{
   background-image:url('../img/04_campuses_light grey background.jpg');
@@ -1438,6 +1445,26 @@ li.active a{
   body{
     width: calc(100% + 4em)
   }
+
+  .vline {
+    height: auto;
+    margin-bottom: 25px;
+  }
+
+  .featured_logo img {
+    margin-top: 40px;
+    width: 100px;
+  }
+
+  .featured {
+    padding: 50px 50px 0px 50px;
+  }
+
+  .featured_in {
+    margin-top: -20px;
+    margin-bottom: 50px;
+  }
+
   .frunilogo img{
     width: 45%;
     margin-top: 10px;
@@ -1525,44 +1552,37 @@ li.active a{
 
   .trusted_border{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
   .t-border1{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
   .trusted_border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
   .t-border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
   .trusted_border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
   .t-border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
   .trusted_border4{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px;
   }
 
 
@@ -1636,7 +1656,8 @@ li.active a{
   }
 
   .control_ads_text h3{
-    font-size: 19px;
+    font-size: 17px;
+    line-height: 22px;
   }
 
   .value_page{
@@ -1664,8 +1685,18 @@ li.active a{
     margin-left: 0px;
   }
 
-  .featured_logo{
-    margin-top: 10%;
+  .featured_logo img {
+    margin-top: 40px;
+    width: 100px;
+  }
+
+  .featured_in {
+    margin-top: -20px;
+    margin-bottom: 50px;
+  }
+
+  .featured {
+    padding: 50px 50px 0px 50px;
   }
 
   .img_control_ads img{
@@ -1681,44 +1712,37 @@ li.active a{
 
   .trusted_border{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px;
   }
 
   .t-border1{
     height: 110px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px;
   }
 
   .trusted_border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px;
   }
 
   .t-border2{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px ;
   }
 
   .trusted_border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px;
   }
 
   .t-border3{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px;
   }
 
   .trusted_border4{
     height: 130px;
-    border-style: none;
-    border-width: none;
+    border-width: 0px 0px 0px 0px;
   }
 
 
