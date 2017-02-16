@@ -1,7 +1,7 @@
 <div class="student_footer">
   <div class="row stud_foot">
     <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
-      <div class="col-sm-4 col-md-3 col-md-push-1 fruni_sponsor ">
+      <div class="col-sm-4 col-md-3 col-md-push-0 col-lg-3 col-lg-push-1 fruni_sponsor ">
         <h6>FRUNI PRINT Sdn Bhd <br>Reg no:1152261-T</h6>
       </div>
 
