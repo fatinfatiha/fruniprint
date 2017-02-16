@@ -116,8 +116,10 @@
         <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_register">
           <img src="img/02_how to print_register icon.png" alt=""><br>
         </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-3 col-sm-6 howto_content">
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Register</h3>
+        </div>
+        <div class="col-xs-12 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>for one whole year of sponsored printing</p>
         </div>
       </div>
@@ -126,8 +128,10 @@
         <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_login">
           <img src="img/02_how to print_login icon.png" alt="">
         </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-3 col-sm-6 howto_content">
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Login</h3>
+        </div>
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>to your personal secured account on the website </p>
         </div>
       </div>
@@ -136,8 +140,10 @@
         <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_upload ">
           <img src="img/02_how to print_upload icon.png" alt="">
         </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-3 col-sm-6 howto_content">
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Upload</h3>
+        </div>
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>your study materials anytime from any device</p>
         </div>
       </div>
@@ -146,8 +152,10 @@
         <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_print">
           <img src="img/02_how to print_print icon.png" alt="">
         </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-3 col-sm-6 howto_content">
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Print</h3>
+        </div>
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>at the nearest FRUNI SPOT in your campus</p>
         </div>
       </div>
@@ -157,8 +165,10 @@
         <div class="col-xs-12 col-md-push-2 col-md-12 col-sm-6 col-sm-push-3 img_collect">
             <img src="img/02_how to print_collect icon.png" alt="">
         </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-3 col-sm-6 howto_content">
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Collect</h3>
+        </div>
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>your documents and have an awesome day</p>
         </div>
       </div>
