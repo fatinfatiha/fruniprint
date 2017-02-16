@@ -105,7 +105,7 @@
           <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3 value_ads_logo">
             <img src="img/21_ads value_icon 1.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-1 col-lg-6 col-lg-pull-2 text-center">
             <h2> Highly <br> targeted</h2>
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-12 col-sm-push-2 col-md-6 col-md-push-3 value_content">
@@ -119,7 +119,7 @@
           <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3 value_ads_logo">
             <img src="img/21_ads value_icon 2.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-1 col-lg-6 col-lg-pull-2 text-center">
             <h2> Multiple <br> impressions</h2>
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-12 col-sm-push-2 col-md-6 col-md-push-3 value_content">
@@ -133,7 +133,7 @@
           <div class="col-sm-6 col-sm-push-3 col-md-6 col-md-push-3 value_ads_logo">
             <img src="img/21_ads value_icon 3.png" alt="">
           </div>
-          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-2 text-center">
+          <div class="col-xs-12 col-xs-pull-3 col-sm-6 col-sm-pull-0 col-md-6 col-md-pull-1 col-lg-6 col-lg-pull-2 text-center">
             <h2> Maximised <br> lifespan </h2>
           </div>
           <div class="col-xs-12 col-xs-pull-3 col-sm-12 col-sm-push-2 col-md-6 col-md-push-3 value_content">
@@ -156,7 +156,7 @@
         <h1>Control your ads</h1>
       </div>
 
-      <div class="col-md-8 col-md-offset-2 control_ads_text text-center">
+      <div class="col-md-10 col-md-offset-1 control_ads_text text-center">
         <h3>Campaign reporting with FRUNI PRINT lets you track your <br> advertisements and
             analyse the target audience. </h3>
       </div>

@@ -1,7 +1,7 @@
 <div class="student_footer">
   <div class="row stud_foot">
     <div class="container">
-      <div class="col-xs-12 col-sm-9 col-sm-offset-2 col-md-9 col-md-offset-2">
+      <div class="col-xs-12 col-sm-9 col-sm-offset-2 col-md-10 col-md-offset-1">
         <div class="col-xs-4 col-sm-1 col-md-1 fb_involve">
           <a href="#"><img src="img/05_get involved_small fb icon.png" alt=""></a>
         </div>
