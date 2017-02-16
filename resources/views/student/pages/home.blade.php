@@ -118,8 +118,6 @@
         </div>
         <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Register</h3>
-        </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>for one whole year of sponsored printing</p>
         </div>
       </div>
@@ -130,8 +128,6 @@
         </div>
         <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Login</h3>
-        </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>to your personal secured account on the website </p>
         </div>
       </div>
@@ -142,8 +138,6 @@
         </div>
         <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Upload</h3>
-        </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>your study materials anytime from any device</p>
         </div>
       </div>
@@ -154,8 +148,6 @@
         </div>
         <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Print</h3>
-        </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>at the nearest FRUNI SPOT in your campus</p>
         </div>
       </div>
@@ -167,8 +159,6 @@
         </div>
         <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Collect</h3>
-        </div>
-        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>your documents and have an awesome day</p>
         </div>
       </div>
