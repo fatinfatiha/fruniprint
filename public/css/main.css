@@ -152,7 +152,8 @@ li.active a{
 
 .adslogo h1{
   font-family: 'robotolight';
-  color: #0091ea;
+  color: #fff;
+  font-weight: 800;
   /*margin-top: 8%;*/
   font-size: 55px;
 }
