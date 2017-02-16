@@ -1801,8 +1801,9 @@ li.active a{
   }
 
   .featured_logo img{
-    /*width: 80px;*/
-    margin-top: 40px;
+    width: 100px;
+    padding: 10px 15px;
+    margin: 10px 5px;
   }
 
   .value_ads .container{

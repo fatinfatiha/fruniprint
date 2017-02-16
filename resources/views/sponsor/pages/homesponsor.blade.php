@@ -62,20 +62,20 @@
       <div class="container">
         <div class="featured_in col-xs-12 col-sm-10 col-sm-push-1 col-md-10 col-md-offset-2 col-md-push-0 col-lg-10 col-lg-offset-2">
           <div class="text-center">
-          <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
             <img src="img/20_sponsors home_the star.png" alt="" width="100px">
           </div>
-          <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
             <img src="img/20_sponsors home_vulcan post.png" alt="" width="100px">
           </div>
 
-          <div class="col-xs-12 col-sm-4 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
             <img src="img/20_sponsors home_bfm.png" alt="" width="100px">
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
             <img src="img/20_sponsors home_malaymail.png" alt="" width="100px">
           </div>
-          <div class="col-xs-12 col-sm-6 col-md-2 featured_logo">
+          <div class="col-xs-12 col-sm-2 col-md-2 featured_logo">
             <img src="img/20_sponsors home_dna.png" alt="" width="100px">
           </div>
           </div>
@@ -156,7 +156,7 @@
         <h1>Control your ads</h1>
       </div>
 
-      <div class="col-md-10 col-md-offset-1 control_ads_text text-center">
+      <div class="col-md-10 col-md-offset-1 col-sm-8 col-sm-offset-2  control_ads_text text-center">
         <h3>Campaign reporting with FRUNI PRINT lets you track your <br> advertisements and
             analyse the target audience. </h3>
       </div>
