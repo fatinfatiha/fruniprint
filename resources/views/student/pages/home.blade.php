@@ -119,7 +119,7 @@
         <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <h3>Register</h3>
         </div>
-        <div class="col-xs-12 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
+        <div class="col-xs-8 col-xs-push-2  col-md-12 col-md-push-1 col-sm-6 text-center howto_content">
           <p>for one whole year of sponsored printing</p>
         </div>
       </div>
